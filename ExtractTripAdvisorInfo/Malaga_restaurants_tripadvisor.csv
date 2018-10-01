@@ -1,0 +1,2058 @@
+position;restaurants;ratings;number_reviews;price_category;food_category
+1;Luxalad;5.0;141;€;Comida rápida,Europea,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+2;Trattoria Mamma Franca;5.0;361;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+3;La Alacena de Francis;5.0;328;€€ - €€€;Mediterránea,Europea,Española,Rusa,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+4;La Barra de Zapata;5.0;517;€€ - €€€;Internacional,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+5;Café Tramezzino;5.0;139;€;Café,Europea,Saludable,Opciones vegetarianas,Opciones veganas
+6;Marisquería La Mayor;5.0;164;€€ - €€€;Marisco,Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+7;Byoko;5.0;286;€€ - €€€;Francesa,Café,Mediterránea,Española,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+8;Kortxo;5.0;425;€€ - €€€;Española,Internacional,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+9;Da Saveria comida italiana casera;4.5;634;€;Italiana,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+10;Spago's - Fresh Pasta;5.0;338;€;Italiana,Comida rápida,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+11;Brutus;4.5;204;€€ - €€€;Americana,Latina,Pizza,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+12;Mura Mura Osteria Cafe;4.5;710;€€ - €€€;Italiana,Fusión,Mediterránea,Europea,Tienda gourmet,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+13;Restaurante Cávea;5.0;123;€€ - €€€;Española,Fusión,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+14;La Luz de Candela;4.5;808;€€ - €€€;Francesa,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+15;La Récréation;4.5;272;€€ - €€€;Francesa,Mediterránea,Fusión,Pub restaurante,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+16;La Tranca;4.5;826;€;Bar,Mediterránea,Española,Opciones vegetarianas
+17;Asador Ovidio;4.5;651;€€ - €€€;Asador,Mediterránea,Barbacoa,Europea,Española,Opciones sin gluten
+18;Riosol;4.5;345;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+19;García Taberna;4.5;461;€€ - €€€;Internacional,Mediterránea,Europea,Española,Contemporánea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+20;La Recova;4.5;792;€;Española
+21;Pampa Grill Restaurante Argentino;4.5;340;€€ - €€€;Asador,Barbacoa,Argentina,Opciones sin gluten
+22;Pizzeria Italiana Vittoria;4.5;368;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+23;Buenavista Gastrobar & Tapas;4.5;298;€€ - €€€;Mediterránea,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+24;Siete Semillas;5.0;100;€€ - €€€;Mediterránea,Saludable,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+25;Prohobitox;4.5;199;€€ - €€€;Europea,Asiática,Fusión,Internacional,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+26;Restaurante Alexso;4.5;304;€€ - €€€;Mediterránea,Europea,Española,Contemporánea,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+27;La Proa de Teatinos;4.5;705;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+28;Las Golondrinas;4.5;232;€€ - €€€;Mediterránea,Europea,Española,Asador,Opciones vegetarianas,Opciones sin gluten
+29;El Meson de Cervantes;4.5;5004;€€ - €€€;Mediterránea,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+30;Mesón Alberto;4.5;224;€€ - €€€;Española
+28;Las Golondrinas;4.5;232;€€ - €€€;Mediterránea,Europea,Española,Asador,Opciones vegetarianas,Opciones sin gluten
+29;El Meson de Cervantes;4.5;5006;€€ - €€€;Mediterránea,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+30;Mesón Alberto;4.5;224;€€ - €€€;Española
+31;Mesón Alvaluz;4.5;185;€€ - €€€;Mediterránea,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+32;La Brujhada;4.5;793;€€ - €€€;Francesa,Contemporánea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+33;El Gastronauta;4.5;952;€€ - €€€;Internacional,Mediterránea,Española,Tienda gourmet,Contemporánea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+34;Tapeo de Cervantes;4.5;3633;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+35;Napolitan BBQ;4.5;466;€€ - €€€;Asador,Italiana,Americana,Barbacoa,Opciones vegetarianas,Opciones sin gluten
+36;Gin Tonic Bar;4.5;255; ;
+37;Meson Iberico;4.5;531;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+38;Gloria Hoyos;4.5;184;€;Bar,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+39;Andino Gastrobar;4.5;339;€€ - €€€;Latina,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+3;Heladería Freskitto;4.5;178;€;Opciones vegetarianas,Opciones sin gluten
+40;Restaurante Miguel;4.5;374;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+41;Paralelo;4.5;394;€€ - €€€;Mediterránea,Europea,Española,Street food / Comida en la calle,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+42;Boca Llena Teatinos;4.5;321;€€ - €€€;Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+43;Plaza de Chinitas;4.5;1287;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+44;Curry-Ya!;4.5;166;€;Japonesa,Asiática,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+45;Vinería Cervantes;4.5;1146;€€ - €€€;Mediterránea,Europea,Española,Vinoteca,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+46;La Madriguera Craft Beer;4.5;179;€€ - €€€;Pub con cerveza artesanal,Bar,Mediterránea,Europea,Española,Pub,Opciones vegetarianas,Opciones veganas
+47;La Peregrina Centro;4.5;112;€;Bar,Marisco,Mediterránea,Española,Pub,Opciones sin gluten
+48;Cerveceria Arte & Sana Craft Beer Cafe;4.5;215;€€ - €€€;Bar,Pub,Fusión
+49;La Taberna De Monroy;4.5;739;€€ - €€€;Mediterránea,Española,Internacional,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+50;Restaurante Bar OÑA;4.5;147;€€ - €€€;Café,Mediterránea,Española,Opciones vegetarianas
+3;Catedral del Pescaíto;4.5;239;€€ - €€€;Pub
+51;Verum - El Asador de Malaga;4.5;199;€€ - €€€;Asador,Mediterránea,Barbacoa,Española,Peruana,Sudamericana,Opciones sin gluten
+52;Tepito;4.5;209;€;Mexicana,Latina,Comida rápida,Centroamericana,Opciones vegetarianas
+53;Cafetería Jardín Botánico La Concepción;4.5;187;€;Europea,Internacional,Saludable,Sopas,Opciones veganas,Opciones vegetarianas,Opciones sin gluten
+54;Beluga Malaga;4.5;653;€€€€;Mediterránea,Europea,Española,Contemporánea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+55;Sake Izakaya;5.0;63;€€ - €€€;Japonesa,Opciones vegetarianas,Opciones sin gluten
+61;The Great India;4.5;199;€€ - €€€;India,Opciones vegetarianas,Opciones veganas,Halal,Opciones sin gluten
+62;Restaurante Vino Mío;4.5;1812;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas
+63;Meson Mariano;4.5;365;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+64;Yubá;4.5;207;€€ - €€€;Fusión,Mediterránea,Española,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+65;12 Pulgadas Sound Restaurant;4.5;81;€€ - €€€;Europea,Española,Mediterránea,Opciones vegetarianas,Opciones sin gluten
+66;Antigua Casa de Guardia;4.5;683;€;Española,Vinoteca
+67;Marisqueria Jacinto;4.5;326;€€€€;Española,Marisco,Mediterránea,Europea
+68;La casa del perro;4.5;205;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+69;Gotham Grill Gourmet;4.5;238;€€ - €€€;Americana,Mediterránea,Española,Asador,Opciones vegetarianas,Opciones sin gluten
+70;Mosaico;4.5;183;€€ - €€€;Marroquí,Mediterránea,De Oriente Medio,Opciones vegetarianas,Opciones veganas
+71;Nacalu Restaurante Tapas;4.5;320;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+72;Eboka Casa de Vinos y Comidas;4.5;358;€€ - €€€;Mediterránea,Europea,Española,Vinoteca,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+73;Restaurante Venta El Charco;4.5;344;€€ - €€€;Asador,Mediterránea,Barbacoa,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+74;Cervecería Mapamundi 2011;4.5;209;€;Belga,Pub con cerveza artesanal,Internacional
+75;Amigos Grill Málaga Centro;4.5;721;€€ - €€€;Mexicana,India,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+76;GastroBar GallarVi;4.5;106;€€ - €€€;Mediterránea,Opciones vegetarianas
+77;Al yamal;4.5;441;€€ - €€€;Marroquí,De Oriente Medio,Árabe,Opciones vegetarianas,Opciones veganas,Halal,Opciones sin gluten
+78;Punto It;4.5;161;€€ - €€€;Italiana,Pizza,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+79;Sabor a Fuego;4.5;655;€€ - €€€;Latina,Mediterránea,Barbacoa,Europea,Española,Argentina,Sudamericana,Opciones sin gluten
+80;Restautante Tita Ché;4.5;261;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas
+81;EL Rincon del Cervecero;4.5;146;€€ - €€€;Bar,Española,Pub con cerveza artesanal
+82;La Medusa;4.5;163;€€ - €€€;Marisco,Mediterránea,Europea,Española
+83;Anyway WineBar;5.0;51;€€ - €€€;Mediterránea,Española,Vinoteca,Contemporánea,Saludable,Street food / Comida en la calle
+84;Casa Lola;4.5;1853;€€ - €€€;Bar,Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+85;Restaurante Amador;4.5;703;€€€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+86;Garum;4.5;723;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+87;El Farolito;4.5;292;€€ - €€€;Asador,Latina,Barbacoa,Argentina,Asador,Opciones sin gluten
+88;Il Colosseo;4.5;350;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+89;Madeinterranea Restaurante y Tapas;4.5;657;€€ - €€€;Bar,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+90;Galopain de Paris;4.5;271;€;Francesa,Café,Mediterránea,Europea,Española,Opciones vegetarianas
+91;Uvedoble;4.5;961;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+92;Pizzeria Lo Spuntino;4.5;402;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+93;Meson Astorga;4.5;398;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+94;Bar Mercado Atarazanas;4.5;239;€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas
+95;Terra Mia;4.5;1338;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+96;La parrilla de Mane;4.5;293;€€ - €€€;Asador,Mediterránea,Barbacoa,Europea,Española,Asador,Opciones sin gluten
+97;El Refectorium del Campanario;4.5;238;€€€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+98;Restaurante Asako;4.5;426;€€ - €€€;Japonesa,Sushi,Asiática,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+99;Restaurante Juanito;4.5;174;€€ - €€€;Marisco,Mediterránea,Española,Opciones vegetarianas
+100;Castizo - casa de comidas;4.5;213;€€ - €€€;Española,Opciones vegetarianas
+101;Candamil;4.5;292;€€ - €€€;Europea,Española,Opciones sin gluten
+102;La Taberna de Cervantes;4.5;386;€€ - €€€;Internacional,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+103;Terral Burger and Drinks;4.5;206;€€ - €€€;Bar,Pub restaurante,Opciones vegetarianas
+104;Llenahí Málaga;5.0;57;€€ - €€€;Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+105;Hop Scotch;5.0;87;€;Pizza,Pub con cerveza artesanal,Bar,Opciones veganas
+106;Radici;4.5;66;€€ - €€€;Italiana,Mediterránea,Europea,Tienda gourmet,Contemporánea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+107;Bodeguita El gallo;4.5;463;€€ - €€€;Española,Bar,Mediterránea,Europea,Opciones vegetarianas,Opciones sin gluten
+108;Cañadú Vegetariano;4.0;583;€€ - €€€;Mediterránea,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+109;Charlotte Gastrobar & Café;4.5;370;€€ - €€€;Mediterránea,Española,Contemporánea,Café,Europea,Opciones vegetarianas,Opciones sin gluten
+110;La Paloma Fossil Restaurante;4.5;224;€€ - €€€;Asador,Mediterránea,Española,Internacional,Opciones vegetarianas,Opciones sin gluten
+111;La Farola de Orellana;4.0;271;€;Española
+112;Taperia de Sybaris;4.5;383;€€ - €€€;Bar,Mediterránea,Española,Opciones vegetarianas
+113;Los Robles de Leon;4.5;114;€€ - €€€;Española
+114;L'expérience;4.5;939;€€ - €€€;Bar,Mediterránea,Europea,Española,Pub restaurante,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+115;La Posada De Brasil;4.5;430;€€ - €€€;Asador,Brasileña,Latina,Barbacoa,Sudamericana
+116;KGB Málaga;4.0;524;€€ - €€€;Mediterránea,Europea,Española,Tienda gourmet,Fusión,Opciones vegetarianas,Opciones sin gluten
+117;Marisquería los Delfines;4.5;394;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones sin gluten
+118;Blacklabel Urban Grill;4.5;374;€€ - €€€;Americana,Asador,Barbacoa,Fusión,Opciones vegetarianas,Opciones sin gluten
+119;Restaurante La Bahia (Antigua Taberna La Bahia);4.5;96;€€ - €€€;Mediterránea,Europea,Española
+120;Bar Bululu Málaga;5.0;47;€;Española,Venezolana,Sudamericana,Opciones vegetarianas
+121;Angus Muelle Uno;4.5;726;€€ - €€€;Barbacoa,Argentina,Sudamericana,Asador,Latina
+122;Baraboo Gin y Copas;5.0;63;€€ - €€€;Bar,Pub
+123;La Taberna del Pintxo Larios;4.0;757;€€ - €€€;Española,Opciones vegetarianas,Opciones veganas
+124;Puro Pescaito;4.0;502;€€ - €€€;Marisco,Mediterránea,Española,Sopas,Opciones sin gluten
+125;Uri Sushi;4.5;179;€€ - €€€;Japonesa,Sushi,Asiática,Coreana,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+126;Freiduria Marisqueria Chupytira;4.0;336;€€ - €€€;Marisco,Mediterránea,Española,Opciones sin gluten
+127;C&C Restaurante;4.5;136;€€ - €€€;Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+128;El Refectorium;4.0;335;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+129;Ciao Carreteria 69;4.5;597;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+130;Amigos Grill Muelle Uno;4.0;1143;€€ - €€€;Mexicana,India,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+131;Gaucho Grill;4.0;692;€€ - €€€;Asador,Mediterránea,Barbacoa,Europea,Argentina,Sudamericana,Asador,Opciones vegetarianas,Opciones sin gluten
+132;Empanadas Viste;5.0;48;€€ - €€€;Argentina,Comida rápida,Opciones vegetarianas
+133;Marisqueria el cateto;4.5;110; ;Marisco
+134;Katogui Agora;4.0;280;€€ - €€€;Mediterránea,Europea,Griega,Opciones vegetarianas,Opciones veganas
+135;Malapizza;4.5;185;€;Italiana,Pizza,Europea,Street food / Comida en la calle,Opciones vegetarianas,Opciones veganas
+136;Restaurante Mexicano Tulum;4.5;117;€€ - €€€;Mexicana,Opciones vegetarianas,Opciones veganas
+137;Beher Málaga;4.0;247;€€ - €€€;Mediterránea,Española
+138;El Vegetariano de la Alcazabilla;4.0;379;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+139;La Calma centro;4.5;103;€€ - €€€;Internacional,Mediterránea,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+140;Mixtúrate Gastrobar;4.5;132;€€ - €€€;Mediterránea,Española,Europea,Opciones vegetarianas,Opciones veganas
+141;La Cosmopolita Malagueña;4.0;687;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+142;Misuto;4.5;288;€€ - €€€;Japonesa,Mediterránea,Sushi,Asiática,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+143;Cafe Con Libros;4.0;319;€;Café,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+144;Niña Bonita Cantina;4.5;58;€€ - €€€;Mexicana,Opciones vegetarianas
+145;Mainake Casual Gastro;5.0;103;€€ - €€€;Mediterránea,Española,Pub restaurante,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+146;Lechuga;4.0;482;€€ - €€€;Internacional,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+147;Buddha Brasserie;4.5;156;€€ - €€€;India,Asiática,Tailandesa,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+148;La Cónsula;4.5;97;€€€€;Europea,Española,Mediterránea,Contemporánea
+149;Paristokio;4.5;167;€€ - €€€;Española,Japonesa,Opciones vegetarianas,Opciones veganas
+150;Citron;4.0;544;€€ - €€€;Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+151;Toro Muelle Uno;4.5;1099;€€ - €€€;Asador,Mediterránea,Europea,Española,Asador,Opciones vegetarianas,Opciones sin gluten
+152;Restaurante Montana;4.0;364;€€€€;Mediterránea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+153;Los Patios de Beatas;4.0;679;€€ - €€€;Mediterránea,Europea,Española,Vinoteca,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+154;La Calle Burger Málaga;4.0;520;€€ - €€€;Americana,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+155;Asador Iñaki;4.0;964;€€ - €€€;Mediterránea,Española,Asador,Opciones sin gluten
+156;Meson La Cepa;4.0;217;€€ - €€€;Mediterránea,Española,Europea,Opciones vegetarianas,Opciones sin gluten
+157;Meson Astur;4.5;129;€€ - €€€;Española
+158;Astrid Taperia Orgánica;4.0;320;€€ - €€€;Bar,Mediterránea,Contemporánea,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+159;Vulebar;4.5;144;€€ - €€€;Mediterránea,Opciones sin gluten,Opciones vegetarianas
+160;Caremm Gastrobar;5.0;51;€€ - €€€;Mediterránea,Española
+161;Tandoori Mex;4.5;285;€€ - €€€;Mexicana,India,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+162;Restaurante Antonio;4.0;329;€€ - €€€;Española,Marisco,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+163;La Botica de la Cerveza;5.0;57;€€ - €€€;Pub con cerveza artesanal,Pub
+164;Taberna La Biznaga;4.5;218;€€ - €€€;Marisco,Mediterránea,Española
+165;Recyclo Bike Cafe;4.0;508;€;Café,Mediterránea,Europea,Española,Pub con cerveza artesanal,Internacional,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+166;Le Diner;4.5;131;€€€€;Mediterránea,Europea,Española,Opciones vegetarianas
+167;La Mensula II;4.5;189;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+168;La Plaza;4.0;1135;€€ - €€€;Mediterránea,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+169;Palodú Gastrobar;4.0;270;€€ - €€€;Contemporánea,Opciones vegetarianas,Opciones sin gluten
+170;Prado Halcones;4.5;211;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+171;Wendy Gamba;4.0;279;€€ - €€€;Bar,Mediterránea,Europea,Española
+172;Chiringuito El Cachalote;4.0;639;€€ - €€€;Marisco,Mediterránea,Barbacoa,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+173;Las Merchanas;4.0;506;€;Bar,Mediterránea,Española,Europea
+174;Restaurante Figón de Juan;4.5;117;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+175;Roraima Restaurante;4.5;67;€;Latina,Española,Venezolana,Sudamericana,Colombiana,Opciones vegetarianas,Opciones veganas
+176;Jalar Casual Restaurant;4.0;239;€€ - €€€;Mediterránea,Española,Fusión,Opciones vegetarianas
+177;La Alvaroteca;4.0;728;€€ - €€€;Mediterránea,Europea,Española,Internacional,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+178;Cantina Canalla;5.0;48;€€ - €€€;Mexicana
+179;Los Curros;4.0;250;€€ - €€€;Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+180;Restaurante Bienmesabe;4.5;121; ;Mexicana,Mediterránea
+181;Taberna de Pitita;4.0;205;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+182;Cortijo de Pepe;4.0;742;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+183;Restaurante El Refectorium Catedral;4.0;413;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+184;Vegetariano El Calafate;4.0;647;€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+185;Receso Taberna Urbana;4.5;67; ;Mediterránea
+186;Madame Suzanne;4.5;241;€€ - €€€;Francesa,Mediterránea,Europea,Española
+187;Nómadas Burguer Company;4.0;359;€€ - €€€;Americana,Opciones vegetarianas,Opciones sin gluten
+188;La Tana Del Lupo;5.0;45;€;Mediterránea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+189;Central Beers Málaga;4.5;195;€€ - €€€;Bar,Europea,Pub,Pub con cerveza artesanal,Opciones vegetarianas,Opciones veganas
+190;Restaurante Jose Carlos Garcia;4.0;476;€€€€;Mediterránea,Europea,Española,Contemporánea,Opciones vegetarianas,Opciones sin gluten
+191;La Deriva Restaurant;4.0;758;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+192;Indian Beach Restaurant Marbella;4.5;70;€€ - €€€;India,Opciones vegetarianas,Opciones veganas
+193;Restaurante María;4.5;153;€€ - €€€;Mediterránea,Española,Europea,Opciones vegetarianas
+194;El Descorche Sorbos & Mordiscos;5.0;55;€€ - €€€;Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+195;Circus Bar;5.0;44;€;Internacional,Española,Pub
+196;Wokeron;5.0;41;€;Española,Tailandesa
+197;Restaurante japones Kyoto;4.0;166;€€ - €€€;Japonesa,Sushi,Opciones vegetarianas
+198;Venta El Tunel;4.0;271;€€ - €€€;Española,Opciones vegetarianas
+199;EL PIKON;4.5;133;€€ - €€€;Mediterránea,Española,Europea,Internacional
+200;Matiz;5.0;39;€€ - €€€;Mediterránea
+201;Los Tres Cincos;4.5;189;€€ - €€€;Asador,Barbacoa,Española
+202;Gaditanian Pizzery;5.0;45;€€ - €€€;Italiana
+203;Ocho;4.5;58;€€ - €€€;Española,Argentina,Vinoteca
+204;Restaurante Yerbaguena;4.5;162;€€€€;Mediterránea,Española,Europea
+205;Monte Culebra;5.0;41;€;Opciones vegetarianas,Opciones veganas
+206;Arrozeando;4.5;101;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas
+207;Saloniki;4.0;586;€€ - €€€;Mediterránea,Europea,Griega,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+208;Meson El Pollo del Tio Paco;4.0;286;€€ - €€€;Asador,Mediterránea,Barbacoa,Española
+209;Holi Pop Food;5.0;42;€;Mexicana,Americana,Asador,Fusión,Street food / Comida en la calle,India americana,Opciones vegetarianas,Opciones sin gluten
+210;Restaurante Cayetana;4.5;93;€€ - €€€;Japonesa,Mediterránea,Sushi,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+211;Marisqueria Casa Vicente;4.0;551;€;Marisco,Mediterránea,Española
+212;Pez tomillo;4.0;948;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+213;Vinoteca Bouquet;5.0;35;€€ - €€€;Española,Opciones vegetarianas,Opciones sin gluten
+214;Avante claro;4.0;241;€€ - €€€;Marisco,Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+215;Zahara gastrobar;4.0;398;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+216;La Sole del Pimpi;4.5;125;€€ - €€€;Japonesa,Mediterránea,Sushi,Europea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+217;B?;4.5;140;€€€€;Japonesa,Sushi,Mediterránea,Española,Fusión,Opciones vegetarianas
+218;Viva Maria;4.5;91;€;Bar,Mediterránea,Europea,Española,Pub,Argentina,Opciones vegetarianas
+219;Brunchit España;4.5;736;€€ - €€€;Internacional,Pub restaurante,Italiana,Pizza,Café,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+220;Heladeria Fragola;4.5;76; ;Café
+221;Bar-Baresi;4.5;52;€;Italiana,Española,Asador,Argentina,Opciones vegetarianas
+222;La Pachamama;4.5;101;€;Peruana,Latina,Opciones vegetarianas,Opciones veganas
+223;Batik;4.0;939;€€ - €€€;Mediterránea,Europea,Española,Contemporánea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+224;Meson Huesca;4.5;85;€€ - €€€;Mediterránea
+225;los cunaos;4.0;183;€€ - €€€;Marisco,Mediterránea,Española
+226;Los Mellizos, Malaga;4.0;1478;€€ - €€€;Marisco,Mediterránea,Europea,Española,Sopas,Opciones vegetarianas,Opciones sin gluten
+227;Casa Nieblas;4.5;66;€;Marisco,Española
+228;D'gustar El Rinconcito;4.0;174;€€ - €€€;Mediterránea,Europea,Española,Vinoteca,Opciones vegetarianas
+229;Restaurante La Antxoeta;4.5;136;€€ - €€€;Mediterránea,Española,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+230;Soca;4.0;149;€€ - €€€;Mediterránea,Sushi,Japonesa,Asiática,Opciones vegetarianas,Opciones sin gluten
+231;Block House;4.0;232;€€ - €€€;Americana,Asador,Barbacoa,Europea,Opciones vegetarianas
+232;Okami;4.0;369;€€ - €€€;Japonesa,Sushi,Asiática,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+233;3345 Sound Restaurant;4.0;144;€;Mediterránea,Asiática,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+234;El Botijo;4.5;128;€€ - €€€;Asador,Mediterránea,Española
+235;La Tagliatella Gabriel Celaya, Málaga;4.0;302;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+236;Teteria El Haren;4.5;136;€€ - €€€;Café,Opciones veganas
+237;Meson Antonio;4.0;129;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+238;Malallama Soul Food;4.0;189;€€ - €€€;Internacional,Española,Contemporánea,Fusión,Street food / Comida en la calle,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+239;El Picoteo de Agustin Meson Malaga;4.5;133; ;
+240;La Martina Gastrotienda;4.5;51;€;Mediterránea,Europea,Española
+241;Taberna D'Antojo;4.5;118;€€ - €€€;Mediterránea,Internacional,Opciones vegetarianas,Opciones sin gluten
+242;La Reserva 12;4.0;562;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+243;La Camperia Malaguita;4.5;58;€;Mediterránea,Española,Opciones vegetarianas
+244;Cafeteria Churreria El Artesano;4.5;71;€;Opciones sin gluten
+245;El Pimpi;4.0;11563;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+246;Maestranza 20;4.5;62;€€€€;Italiana,Española,Opciones vegetarianas,Opciones sin gluten
+247;La Cocotte;4.0;270;€€ - €€€;Mediterránea,Española,Internacional,Fusión,Opciones vegetarianas
+248;AVANT PREMIERE Restaurante;4.5;112;€€ - €€€;Sudamericana,Francesa,Saludable,Opciones vegetarianas,Opciones sin gluten,Opciones veganas
+249;Restaurante El Cabra;4.0;301;€€ - €€€;Marisco,Mediterránea,Española,Opciones sin gluten
+250;La Vida de la Gente;5.0;73;€€ - €€€;Bar,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+251;Restaurante Los Marfiles;4.0;104;€€ - €€€;Mediterránea,Española
+252;Litoral Pacifico - Chiringuito;4.0;193;€€ - €€€;Marisco,Mediterránea,Barbacoa,Española,Opciones sin gluten
+253;La queseria;4.0;164;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+254;The Garden Bar;4.0;146;€€ - €€€;Bar,Europea,Británica,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+255;Cafe de L'abuela;4.0;144;€€ - €€€;Café,Mediterránea,Europea,Española,Opciones vegetarianas
+256;Veroda;4.5;43;€;Pub,Saludable,Pub restaurante,Comida rápida,Mediterránea,Europea,Española,Opciones vegetarianas
+257;DINAMITA SUSHI;4.5;144;€€ - €€€;Japonesa,Sushi,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+258;Kalua Helado Artesanal;4.5;82;€;Opciones vegetarianas
+259;Casa Pepa;4.0;294;€;Mediterránea,Española
+260;La Mafia se Sienta a la Mesa;4.0;708;€€ - €€€;Italiana,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+261;La Ménsula;4.0;199;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+262;Chiringuito La Inopia;4.5;93;€€ - €€€;Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+263;Bar Malaga Restaurante;4.0;146;€€ - €€€;Mediterránea,Europea,Española
+264;NicPic;4.5;41;€€ - €€€;Mediterránea,Opciones vegetarianas,Opciones veganas
+265;La Revuelta;4.5;55;€€ - €€€;Opciones vegetarianas
+266;La Taba;4.5;48;€;Opciones sin gluten
+267;La Bodega Del Pintor;4.5;153;€€ - €€€;Bar,Mediterránea,Española
+268;Takumi;5.0;42;€€ - €€€;Japonesa,Opciones vegetarianas,Opciones sin gluten
+269;La Plaza;4.0;123;€€ - €€€;Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+270;Sansho - Korean and Japanese Cuisine;4.5;50;€€ - €€€;Japonesa,Asiática,Coreana,Opciones vegetarianas,Opciones veganas
+271;Mamuchis restaurante;4.0;177;€€ - €€€;Mexicana,Europea,Asiática,Griega,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+272;Gabi;4.0;227;€€ - €€€;Marisco,Mediterránea,Barbacoa,Europea,Española,Opciones vegetarianas
+273;TABERNA LA CHOZA DE JARAZMIN;4.5;51;€€ - €€€;Bar,Barbacoa,Española,Contemporánea,Pub
+274;Lola y Ludwig;4.5;53;€€ - €€€;Mediterránea,Europea,Española,Contemporánea,Fusión,Bar,Opciones vegetarianas,Opciones sin gluten,Opciones veganas
+275;Small Cafe;4.5;84;€€ - €€€;Café,Bar
+276;Casa Lola Strachan;4.5;65;€€ - €€€;Mediterránea,Española,Europea,Opciones vegetarianas
+277;BB Juice;5.0;29;€;Opciones vegetarianas
+278;Restaurante Bar La Bouganvilla;4.0;660;€€ - €€€;Bar,Mediterránea,Europea,Española,Internacional,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+279;Miguelito El Cariñoso;4.0;228;€€ - €€€;Marisco,Mediterránea,Europea,Española
+280;Restaurante Hamburgueseria Mafalda;4.0;129;€;Comida rápida,Española,Opciones vegetarianas
+281;Comepizza;4.0;230;€€ - €€€;Italiana,Pizza,Opciones vegetarianas,Opciones veganas
+282;Pizzería El Pavone;4.5;103;€;Italiana,Pizza,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+283;Taberna la Raiz;4.0;176; ;
+284;La Bodeguita de Carlos;4.0;130;€€ - €€€;Marisco,Mediterránea,Española
+285;Kompas 15 Gastroburguer;4.5;54; ;
+286;Almacen del Indiano;4.5;68;€€ - €€€;Española,Vinoteca
+287;Vista Suiza 2;4.0;133;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+288;De Sancha;4.5;63;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+289;Noviembre;4.0;884;€€ - €€€;Americana,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+290;La Parada;4.5;75;€;China,Opciones vegetarianas
+291;Cafe de Estraperlo;5.0;38;€;Bar,Café,Internacional
+292;Casa de Botes;4.0;218;€€ - €€€;Marisco,Mediterránea,Española
+293;El Rengue;4.0;123;€€ - €€€;Mediterránea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+294;Mucha;4.0;117;€€ - €€€;Italiana,Francesa,Cajún y criolla,Checa,Mediterránea,Española,Internacional,Europea,Opciones vegetarianas,Opciones sin gluten
+295;Picnic Soho;4.0;143;€€ - €€€;Americana,Bar,Café,Pub,Opciones vegetarianas,Opciones veganas
+296;Marmita Bares;4.0;317;€€ - €€€;Española,Pub restaurante,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+297;Café Central;3.5;745;€€ - €€€;Bar,Café,Mediterránea,Europea,Española,Opciones vegetarianas
+298;Eguzki bar malaga;4.5;77;€€ - €€€;Mediterránea,Española
+299;El Tintero II;3.5;1796;€€ - €€€;Marisco,Mediterránea,Española
+300;Mercado Merced;4.0;290;€€ - €€€;Española
+301;Restaurante ryugin asiático;4.0;145;€€ - €€€;China,Japonesa,Sushi,Asiática,Opciones vegetarianas,Opciones veganas
+302;Los Pueblos;4.0;120;€;Bar,Mediterránea,Española,Europea,Opciones vegetarianas
+303;Restaurante El Pino Rojo;4.5;62;€€ - €€€;Mediterránea,Europea,Internacional
+304;La Barra;4.0;293;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+305;Ramen Nogacu;4.0;117;€;Japonesa,Asiática,Sopas,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+306;De Cai;4.5;76;€€ - €€€;Mediterránea,Española,Tienda gourmet
+307;Marisqueria el cenachero;4.0;132;€€ - €€€;Marisco
+308;Las Papas del Museo;4.0;150;€;Comida rápida,Mediterránea,Española,Opciones vegetarianas
+309;Bar Jamones;5.0;36;€€ - €€€;Mediterránea,Española
+310;Café Bar Arriate;4.5;59;€;Mediterránea,Fusión,Saludable,Española
+311;La Taberna del Fraile;4.0;95;€€ - €€€;Mediterránea,Europea,Española
+312;Restaurante japones kaede;4.0;102;€€ - €€€;Japonesa,Sushi,Asiática,Opciones vegetarianas,Opciones veganas
+313;The Golden Stack;4.5;57;€;Americana,Comida rápida,Opciones vegetarianas,Opciones sin gluten
+314;Depaso Shawarmas Gourmet;4.5;66;€;Comida rápida,De Oriente Medio,Árabe,Halal
+315;El Chinitas;3.5;420;€€ - €€€;Bar,Marisco,Mediterránea,Española,Opciones vegetarianas
+316;La Pera Cafe Gastrobar;4.5;40;€;Bar,Café,Mediterránea,Española,Fusión
+317;Canela Fina;4.0;345;€€ - €€€;Marisco,Española,Opciones vegetarianas,Opciones sin gluten
+318;ROCIO TAPAS Y SUSHI;4.0;319;€€ - €€€;Marisco,Sushi,Europea,Japonesa,Asiática,Opciones vegetarianas
+319;Meson Lo Gueno de Strachan;4.0;486;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+320;El panino;4.5;66; ;Italiana
+321;Casa de Botes Centro;4.5;63;€€ - €€€;Marisco
+322;L'atelier Clandestino Gourmet;4.0;448;€€ - €€€;Asador,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+323;Chloe Bar;5.0;90; ;
+324;El Café de Bolsa;4.0;159;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+325;Restaurante Antonio Moreno;4.5;98;€€ - €€€;Marisco,Mediterránea,Española,Barbacoa
+326;Noodles and Go;4.0;178;€;Comida rápida,Asiática,Tailandesa,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+327;Taberna La Malagueña;4.0;273;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+328;PadThaiWok Málaga - Teatinos;4.0;198;€€ - €€€;Asiática,Tailandesa,Saludable
+329;Ristorante Pizzeria Il Pomodoro;4.0;102;€€ - €€€;Italiana,Pizza,Europea,Opciones vegetarianas,Opciones veganas
+330;Majao Tapas;4.5;81;€€ - €€€;Internacional,Española,Tienda gourmet,Mediterránea,Opciones veganas
+331;El Txoko de Luis Salinero Málaga;4.5;37;€€ - €€€;Española,Tienda gourmet
+332;Oleaje Restaurante;4.5;45;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+333;Taberna Don Leon;4.0;77;€€ - €€€;Bar,Mediterránea,Europea,Española,Opciones vegetarianas
+334;La Reserva del Pastor;4.0;303;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+335;Restaurante Valparaiso Mijas;4.5;100;€€€€;Mediterránea,Italiana,Europea,Opciones vegetarianas,Opciones sin gluten
+336;Meson La Estancia;4.5;61;€€ - €€€;Tienda gourmet,Opciones vegetarianas
+337;Restaurante Los Pinos Del Coto;4.0;161;€€ - €€€;Española,Internacional
+338;The good sushi;4.0;80; ;Japonesa
+339;Restaurante Rompeolas;4.0;152;€€ - €€€;Mediterránea,Marisco,Europea,Española,Opciones vegetarianas
+340;El Restaurante del Candado Golf Javier Hernandez;4.5;70;€€ - €€€;Internacional,Opciones vegetarianas,Opciones veganas
+341;Casa Manuel de La Lonja;4.5;118;€€ - €€€;Marisco,Mediterránea,Barbacoa,Europea,Española,Opciones vegetarianas
+342;DeHuelva;4.5;61;€€ - €€€;Marisco
+343;Manana Bar Malaga;4.5;125;€;Pub
+344;Treetops;4.5;40;€€ - €€€;Café,Europea,Mediterránea,Opciones vegetarianas,Opciones veganas
+345;La Salita;5.0;24;€€ - €€€;Española
+346;La Pica de los Compadres;4.0;96;€€ - €€€;Marisco,Mediterránea
+347;El Ambigú de la Coracha;4.5;84;€€ - €€€;Internacional,Mediterránea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+348;Virguerias;4.5;73;€€ - €€€;Asador,Española,Argentina,Europea
+349;Restaurante Tunante;4.0;183;€€ - €€€;Japonesa,Sushi,Opciones vegetarianas,Opciones sin gluten
+350;El Gato con Bota Tapas & Drinks;4.0;136;€€ - €€€;Marroquí,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas
+351;La Vinoteca de Moreno;5.0;22;€€ - €€€;Italiana,Mediterránea,Española,Fusión,Vinoteca
+352;Casa Juan;4.0;129;€€ - €€€;Bar,Marisco,Opciones sin gluten
+353;Kirei Valeria;4.0;102;€€€€;Japonesa,Sushi,Asiática,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+354;Marisqueria La Cantina;4.5;84;€€ - €€€;Marisco,Mediterránea
+355;Meson Santiago Sedeno;4.0;109;€€ - €€€;Marisco,Mediterránea,Española
+356;Pitta Bar;4.0;102;€;Marroquí,Mediterránea,De Oriente Medio,Libanesa,Turca,Halal,Opciones vegetarianas,Opciones veganas
+357;TapeArte;4.5;88;€€ - €€€;Española,Tienda gourmet,Opciones vegetarianas
+358;La Mesonera;4.5;104;€;Bar,Mediterránea,Europea,Española,Opciones vegetarianas
+359;Cantina El Calambrito;4.0;218;€€ - €€€;Mexicana,Latina,Centroamericana,Opciones vegetarianas,Opciones veganas
+360;El Trillo Malaga;4.0;655;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+361;Taberna El Mentidero;3.5;346;€€ - €€€;Marisco,Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+362;Casa Kiki;4.5;63; ;
+363;CAN EMMA Gastroteca;4.5;38;€€ - €€€;Internacional,Mediterránea,Española,Opciones vegetarianas
+364;Vermouth Brasas y Copas;4.5;58;€€ - €€€;Mediterránea,Barbacoa,Española,Opciones vegetarianas
+365;Heladeria Mont Blanc;4.5;46; ;
+366;Anca Er Mejillon;4.5;57; ;
+367;La Malaguena;4.0;109;€;Mediterránea,Europea,Española,Opciones veganas,Opciones vegetarianas
+368;Ro Burger;5.0;22;€€ - €€€;Italiana,Americana,Argentina,Sudamericana,Opciones vegetarianas,Opciones veganas
+369;O'labo;5.0;31;€€ - €€€;Francesa,Mediterránea,Europea,Española
+370;El merendero de Antonio Martín;3.5;314;€€ - €€€;Española,Marisco,Mediterránea
+371;Gran Sushi;4.5;58;€€ - €€€;Japonesa,Opciones vegetarianas
+372;El Rescoldo;3.5;630;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+373;Taberna Laperica;4.5;39;€;Bar,Mediterránea,Española
+374;La Viuda;4.5;55;€€ - €€€;Mediterránea,Europea,Española,Marisco
+375;Malena Restaurante;4.5;58;€€ - €€€;Argentina
+376;Cafeteria Bar Mercado de El Carmen;4.0;143;€€ - €€€;Mediterránea,Española,Marisco
+377;Buni;4.5;47;€€ - €€€;Americana,Asador,Opciones vegetarianas
+378;Restaurante Hermanos Alba;4.5;108;€€ - €€€;Marisco,Mediterránea,Opciones vegetarianas,Opciones sin gluten
+379;Chiringuito Maria;3.5;247;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas
+380;Cerveceria la surena;3.5;226;€;Bar,Comida rápida,Mediterránea,Española
+381;Muelle 1;4.5;45;€€ - €€€;Española
+382;Chiringuito Litoral Sacaba;4.0;190;€€ - €€€;Marisco,Mediterránea,Española
+383;Marisqueria Playa;4.5;75;€€ - €€€;Marisco,Mediterránea
+384;Hamburgueseria Eladio Campero;4.0;102; ;
+385;Calle de Bruselas;4.0;146; ;
+386;La Parrilla Delicatessen;4.0;128;€€ - €€€;Mediterránea,Europea,Española,Asador,Opciones vegetarianas,Opciones sin gluten
+387;Pizzeria Angolo Italiano;5.0;46;€;Pizza,Opciones vegetarianas
+388;Marisqueria la Luz;4.5;57; ;
+389;Restaurante Hermanos Munoz;4.0;104;€;Marisco,Mediterránea,Española
+390;Chiringuito Servando;3.5;322;€€ - €€€;Marisco,Mediterránea,Europea,Española
+391;Restaurant Tormes;4.0;134;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+392;Taperia La Tita Mari;4.5;27;€;Mediterránea,Española,Opciones vegetarianas
+393;Restaurante Pizzeria Gepetto's;4.5;66;€;Italiana,Americana,Pizza
+394;Málaga Fussión Perchel;5.0;43; ;
+395;La Reserva del Olivo;3.5;606;€€ - €€€;Mediterránea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+396;El Pórtico de Teatinos;4.5;50;€€ - €€€;Española
+397;Almijara;4.5;99;€;Española
+398;El Caleño;4.5;36; ;
+399;Bar Picasso;4.0;448;€;Bar,Mediterránea,Española,Europea,Opciones vegetarianas
+400;Rucua Gastrobar;4.5;51;€;Mediterránea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+401;Rima Bar;4.5;51;€;Europea,Británica,Opciones vegetarianas
+402;Chiringuito De Mami;4.0;162;€;Barbacoa,Europea,Española,Opciones vegetarianas
+403;Kalua Helado Artesanal;4.5;44; ;
+404;Desal;5.0;54;€;Café,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+405;Cattabia;4.5;92;€€ - €€€;Española,Asiática,Opciones vegetarianas
+406;El Pelirrojo;5.0;30;€€ - €€€;Italiana,Pizza,Opciones vegetarianas,Opciones veganas
+407;Ristobar Napule è;5.0;24;€;Italiana
+408;La Baiona;5.0;21;€;Italiana,Café,Street food / Comida en la calle
+409;La Tasca Boombeer;4.0;160;€€ - €€€;Española,Mediterránea,Europea,Opciones vegetarianas
+410;La Campana;3.5;294;€;Mediterránea,Española
+411;La Pala d´Oro;4.0;64;€€ - €€€;Italiana,Europea,Pizza,Mediterránea
+412;El Marisqueo;3.5;241;€€ - €€€;Española
+413;Woodstock Café Bar;4.5;31;€;Bar,Tienda gourmet,Pub,Fusión,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+414;Ciao Pedregalejo 47;4.0;91;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+415;Casilda Mediterranean Concept;4.5;46; ;Internacional,Mediterránea,Europea,Fusión
+416;Dlorenzo Gelato;5.0;25;€;Italiana
+417;decai;4.5;35;€;Opciones vegetarianas
+418;De Cuchara;4.5;50;€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+419;Bar Cafeteria El Yerno;4.0;106;€€ - €€€;Marisco,Mediterránea,Española
+420;Chiringuito Sicsu;3.5;229;€€ - €€€;Marisco,Mediterránea,Barbacoa,Europea,Española,Asador
+421;Restaurant El Brujo;4.5;58;€€ - €€€;Internacional,Opciones vegetarianas,Opciones veganas
+422;Albahaca;4.5;40;€€ - €€€;Española,Opciones vegetarianas
+423;Diboka;4.5;47;€;Opciones vegetarianas
+424;RESTAURANTE EL NAVIO;4.0;94;€€ - €€€;Mediterránea,Española
+425;The Shakespeare;4.5;28;€€ - €€€;Bar,Pub,Pub con cerveza artesanal
+426;Focacceria romana;5.0;23;€;Italiana,Pizza,Marisco,Mediterránea,Opciones vegetarianas
+427;Hamburguesa Nostra - Gourmet Experience Malaga;4.0;82;€€ - €€€;Internacional
+428;Heladería Chocolate;4.5;38; ;
+429;La Vikinga;4.0;51;€€ - €€€;Opciones vegetarianas
+430;Cafe Del Viajero;4.0;83;€€ - €€€;Café,Española,Saludable
+431;Gaucho I;4.5;48;€€ - €€€;Española,Asador,Barbacoa,Argentina,Sudamericana
+432;Venta las Navas SL.;4.0;56;€€ - €€€;Opciones vegetarianas
+433;Tako-Away;4.0;74;€;Mexicana,Latina,Comida rápida,Opciones vegetarianas,Opciones veganas
+434;El Dandy;4.5;35; ;Pizza,Café,Española
+435;La Trastienda;4.5;97;€€ - €€€;Mediterránea,Española
+436;La Boheme;4.5;48;€€€€;Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+437;El Imperdible restaurante;4.0;161;€€ - €€€;Internacional,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+438;Yokohama;4.0;49;€€ - €€€;Japonesa,Opciones vegetarianas
+439;Venta Cotrina;4.5;28; ;
+440;Más Vermut;4.5;23;€€ - €€€;Bar,Española,Fusión
+441;Dal Parmigiano;4.5;97;€€ - €€€;Italiana,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+442;Er Pichi de Caí;4.0;99; ;
+443;Tuk Tuk Noodles;4.0;167;€;Asiática,Tailandesa,De Asia central,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+444;Noray II;4.0;69;€€ - €€€;Marisco,Mediterránea,Española
+445;El Cobertizo;4.5;61;€€ - €€€;Mediterránea
+446;Bar mesón Paco;4.0;70;€;Española
+447;Wok Directo;4.0;180;€€ - €€€;China,Japonesa,Sushi,Asiática,Opciones vegetarianas,Opciones veganas
+448;Kosei Ramen;5.0;17; ;
+449;Cafe Bar Thyssen;4.5;30;€€ - €€€;Café,Europea,Española
+450;Restaurante DBandera;4.5;27;€€ - €€€;Española
+451;Tuk Tuk Noodles Huelin;4.5;74;€;Asiática,Tailandesa,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+452;La Flor Negra and Il Panino;4.5;26;€€ - €€€;Italiana,Café
+453;La Calle Burger Pedregalejo;4.5;48;€;Americana,Opciones vegetarianas
+454;Málaga Doramar;4.5;54; ;
+455;El Cartuchito;5.0;23;€€ - €€€;Mediterránea,Marisco
+456;Marisqueria Ababor;4.0;101;€€ - €€€;Marisco,Mediterránea
+457;La Taberna del Pintxo Alcazaba;4.0;111;€€ - €€€;Mediterránea,Europea,Española
+458;Circus;3.5;242;€€ - €€€;Italiana,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+459;Taberna el Tato;4.5;69;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+460;Casa Bellota;4.5;40;€;Española
+461;UDON Málaga;3.5;188;€€ - €€€;Japonesa,Asiática,Fusión,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+462;Ventorrillo Santa Clara;3.5;186;€€ - €€€;Española,Opciones vegetarianas
+463;Casa Luque;4.5;48;€;Mediterránea,Española
+464;Restaurante Palacios;4.5;40;€;Mediterránea,Española,Comedor
+465;Restaurante Bar Oña 2;4.0;100;€;Española,Opciones vegetarianas
+466;Cerveceria Los Palenos;4.5;28;€;Marisco,Española
+467;Baires coffee & drinks;4.5;65;€€ - €€€;Bar,Café
+468;Los Candiles;4.0;63;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+469;The Sushi Bar;4.0;123;€€ - €€€;Japonesa,Sushi,Asiática,Opciones vegetarianas
+470;MARICARMEN Casa - Playa;4.0;194;€€ - €€€;Americana,Café,Marisco,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+471;20 de Abril;4.5;57;€€ - €€€;Española
+472;El Taqueo;4.5;46;€€ - €€€;Mexicana
+473;"Creperie-Pizzeria ""El Carajillo""";4.5;32;€€ - €€€;Italiana,Mediterránea,Pizza,Opciones vegetarianas
+474;Restaurante El Palmeral;3.5;275;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+475;Quattro Tenori Restaurante Italiano;4.5;51; ;
+476;Cafe de Paris;4.0;171;€€€€;Mediterránea,Europea,Española,Opciones vegetarianas
+477;Bar Cerezo;4.5;37;€€ - €€€;Mediterránea,Europea,Española,Bar,Opciones vegetarianas
+478;Venta El Gato;4.0;50;€€ - €€€;Española
+479;Doramar Puerto;4.0;97;€€ - €€€;Marisco,Mediterránea,Española
+480;Lova;4.5;19;€€ - €€€;Francesa,Europea,Española
+481;La Carmela Tapas;4.5;50;€€ - €€€;Mediterránea,Europea,Española,Fusión,Opciones vegetarianas
+482;Cantina Mexicana Tacos;4.0;76;€€ - €€€;Mexicana
+483;Pascucci;5.0;22;€;Italiana,Opciones vegetarianas
+484;Los Pibes Bar;5.0;17;€;Argentina,Sudamericana,Asador,Mediterránea,Española
+485;Tabanco Málaga;4.5;44;€€ - €€€;Mediterránea,Española
+486;Hong Kong;4.5;64;€€ - €€€;China,Asiática,Opciones vegetarianas
+487;Bar Mercado Central N.1;4.0;54;€;Marisco,Mediterránea,Española,Bar,Pub
+488;Los Gatos;3.5;1768;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+489;La Taberna de Curro Castilla;4.0;115;€€ - €€€;Mediterránea,Española
+490;Restaurante La Romantica;4.0;154;€€ - €€€;Italiana,Mediterránea,Europea,Pizza,Opciones vegetarianas,Opciones veganas
+491;Cafeteria La Galeona;5.0;21;€;Café
+492;Chopp Muelle Uno;4.0;110;€;Española,Bar,Café,Mediterránea,Europea,Opciones vegetarianas
+493;La Taberna del Obispo;3.5;510;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas
+494;Trattoria Lorenzo;3.5;269;€€ - €€€;Italiana,Opciones vegetarianas,Opciones veganas
+495;restaurante Las Flores;4.0;79;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+496;Jamón Power Urban & Grill;4.5;37;€€ - €€€;Mediterránea,Española
+497;La Pluma;4.5;28; ;
+498;Restaurante El Pantano;4.0;120;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+499;Mesón La Buena Mano;4.5;57;€;Mediterránea,Española
+500;Bar Ortega;5.0;21;€€ - €€€;Mediterránea,Española
+501;Hotel Atarazanas;4.0;58; ;
+502;Pizza & Porcion;4.5;31;€;Italiana,Pizza,Mediterránea
+503;Ispaña;4.0;324;€€ - €€€;Española,Vinoteca,Pub restaurante,Bar,Mediterránea,Europea
+504;La Esquinita Del Chupa y Tira;4.5;26;€€ - €€€;Española
+505;La Güerta;4.5;36;€€ - €€€;Asador,Mediterránea,Española,Opciones vegetarianas,Opciones sin gluten
+506;La Cueva de 1900 - Martínez, 9;3.5;450;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+507;El Morata;4.0;83;€€ - €€€;Española
+508;64 Metros De Óleo;4.5;21; ;
+509;El Tapeo del Colilla;4.0;65; ;
+510;Soho Café & Lounge;4.0;100;€€ - €€€;Internacional,Mediterránea,Contemporánea,Saludable
+511;The Half Way Inn;4.5;50;€;Bar,Británica,Pub,Opciones veganas,Opciones vegetarianas
+512;El Rincón de la Catedral;4.5;44;€€ - €€€;Mediterránea
+513;Bar Emily;5.0;22; ;
+514;La Bacanal;5.0;16;€;Italiana,Bar,Mediterránea,Española,Pub,Vinoteca
+515;El narval marisqueria;4.0;92;€€ - €€€;Marisco,Mediterránea,Española
+516;Pastelería Daza;5.0;42; ;
+517;El Patio Bodega;3.5;1147;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+518;La Fragata;4.5;36;€€ - €€€;Mediterránea,Española,Europea
+519;María Pistolas;4.0;59;€€ - €€€;Mexicana,Fusión
+520;Kali;4.5;44;€;Internacional,Opciones vegetarianas
+521;El Carpintero;4.0;70;€;Mediterránea,Española,Europea
+522;El Guacamole Autentica Comida Mexicana;4.0;93;€;Mexicana,Latina
+523;TGB The Good Burger Malaga Larios;4.0;118;€;Americana,Comida rápida,Opciones vegetarianas
+524;TK's Thomas & Kerstin;4.5;50;€€ - €€€;Europea
+525;Camping Presa La Viñuela;3.5;125;€€ - €€€;Barbacoa,Española,Asador,Opciones vegetarianas
+526;Parador Malaga Gibralfaro;3.5;284;€€€€;Mediterránea,Española,Bar,Europea,Pub,Opciones sin gluten
+527;El Ribete;4.0;54;€€ - €€€;Española,Asador,Vinoteca,Pub restaurante
+528;La Machina;3.5;162;€€ - €€€;Americana,Bar,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+529;Taberna La Antigua;3.5;189;€€ - €€€;Bar,Marisco,Mediterránea,Europea,Española,Opciones vegetarianas
+530;Kipfer and Lover;4.5;52;€€ - €€€;Mediterránea,Internacional,Opciones vegetarianas,Opciones sin gluten
+531;La Cueva de 1900 - Alarcón Luján, 1;3.5;201;€€ - €€€;Mediterránea,Europea,Española
+532;Club Japones;4.0;126;€€ - €€€;Japonesa,Sushi,Fusión,Peruana
+533;La Tagliatella;3.5;122;€€ - €€€;Italiana,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+534;Restaurante la Casamata;4.0;47; ;Asador
+535;Marisqueria Huelin;4.0;76;€€ - €€€;Marisco,Mediterránea,Española
+536;Asakusa;4.0;69;€€ - €€€;Japonesa,Sushi,Asiática,Opciones vegetarianas
+537;Restaurante La Ñora;4.5;25; ;
+538;Kinyeti;4.0;49;€;Marroquí
+539;El Piyayo;3.5;462;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+540;Meson Los Pinchitos;4.5;34;€;Mediterránea,Española
+541;Balandros;4.0;91;€€ - €€€;Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+542;Trattoria Mamma Franca Churriana;4.5;29; ;
+543;Cafe Bar Ortega;4.0;43;€;Bar,Café,Española,Pub,Mediterránea
+544;Bramasole Pizzerias;4.5;23;€€ - €€€;Italiana,Pizza
+545;Molabassa;4.0;65;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas
+546;Savanna Exotic;4.5;78;€€ - €€€;Internacional,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+547;Patatín Patatan;4.5;35;€;Española
+548;Tgb the Good Burger;3.5;253;€;Americana,Comida rápida
+549;El Tapeo del Soho;4.5;34;€€ - €€€;Libanesa,Mediterránea,Española,De Oriente Medio,Árabe,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+550;Restaurante Strachan;3.5;283;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+551;Bodegas Las Mariposas;4.5;38;€€ - €€€;Española
+552;Soul Kitchen Benalmadena;5.0;16; ;
+553;Calipso Taperia Restaurante;5.0;16;€;Marisco,Mediterránea,Española
+554;La bodeguita;4.5;44;€€ - €€€;Mediterránea,Española,Tienda gourmet,Vinoteca
+555;Parador de Málaga Golf;4.0;72;€€ - €€€;Marisco,Española
+556;Taberna de Baco;4.5;28; ;
+557;Nerva Café Restaurante;4.0;83;€€ - €€€;Española
+558;la bodeguita fortunata;4.5;54;€;Marisco,Española,Mediterránea,Opciones veganas
+559;Tick-Tack;4.0;101;€€ - €€€;Mediterránea,Española,Europea,Opciones vegetarianas
+560;La Mar De Vinos Muelle Uno;4.5;24;€€€€;Española
+561;Kelucos;4.5;35;€;Café,Mediterránea,Opciones vegetarianas
+562;Samarkanda;4.0;62;€€ - €€€;Libanesa,De Oriente Medio,Internacional,Opciones vegetarianas,Opciones veganas,Halal
+563;Le Zeppole;4.0;39;€;Italiana,Pizza,Mediterránea,Street food / Comida en la calle
+564;El Corte Ingles;3.5;246;€€ - €€€;Española,Opciones vegetarianas,Opciones sin gluten
+565;La Piscina Lounge;4.0;63;€€ - €€€;Bar,Mediterránea,Europea,Española,Pub restaurante
+566;La Mar de Soler;3.5;195;€€ - €€€;Marisco,Mediterránea,Española
+567;Cafe Bar La Marina;4.5;19;€;Mediterránea
+568;Marisqueria Pelayo;4.5;27; ;
+569;Safo Beach;4.0;51;€€ - €€€;Marisco,Pub restaurante
+570;La Cueva de 1900 - Muelle Uno, L57;4.0;60;€€ - €€€;Mediterránea,Europea,Española
+571;Restaurante El Pescaito;4.5;41; ;
+572;La Odisea Vinos de Malaga;4.0;170;€€ - €€€;Mediterránea,Española,Vinoteca,Europea,Opciones vegetarianas
+573;Bar el Tropezon;5.0;20;€;Mediterránea,Española,Opciones vegetarianas
+574;Lígula;4.5;28; ;Internacional,Mediterránea,Española
+575;Vesuvio Gastrobar-Restaurante italiano;4.5;42;€€ - €€€;Italiana,Café,Mediterránea,Contemporánea
+576;El Repique;4.0;61;€€ - €€€;Mediterránea,Europea,Española
+577;Las Brasas De Sureños;5.0;25;€;Asador,Café,Mediterránea,Española
+578;Las Tortugas Bar;3.5;249;€;Bar,Mediterránea,Pub,Internacional,Opciones vegetarianas
+579;Restaurante Asador Puerta de Malaga;4.0;70;€€ - €€€;Asador
+580;No Piqui;4.0;76;€€ - €€€;Italiana,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+581;Caminito;4.5;50;€;Comida rápida,Argentina
+582;Frascati Due;4.5;29; ;Opciones vegetarianas
+583;Kalua Helado Artesanal;4.5;26; ;Café
+584;Meson Cantarrana;3.5;194;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+585;Kir;5.0;13;€€ - €€€;Francesa,Marroquí,Mediterránea,Vietnamita,Vinoteca,Opciones vegetarianas
+586;Venta Puerto Del Leon;4.5;22; ;
+587;La Bodeguita De El Calaero;4.0;45;€€ - €€€;Marisco,Mediterránea,Española
+588;El Beato;3.5;88;€;Mediterránea,Española
+589;Casa Lucas Jurado;4.0;55;€€ - €€€;Marisco
+590;Recoleta;4.5;31;€€ - €€€;Europea,Española,Saludable
+591;Meson Restaurante los Perez;4.0;98; ;
+592;Burguer Kebab;4.5;24;€;Americana,Comida rápida
+593;los del Tunel;4.0;34; ;
+594;Taberna del Siglo;3.5;493;€€ - €€€;Bar,Mediterránea,Española
+595;Farina Malaga;4.5;23;€€ - €€€;Italiana,Pub con cerveza artesanal,Pizza
+596;El Zagal;3.5;246;€;Marisco,Mediterránea,Europea,Española
+597;Heladeria pasteleria Ignacio Mira;5.0;15; ;
+598;Despeidas De Soltera Y Soltero En Meson El Cantaro;4.0;35; ;
+599;Bar Restaurante Victoria;4.0;85;€€ - €€€;Española,Marisco
+600;El Tinglao de Lagunillas;5.0;16;€€ - €€€;Española,Vinoteca
+601;Tapería El Encuentro;4.0;57;€€ - €€€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+602;The Greedy Goat;4.5;19;€€ - €€€;Bar,Británica,Pub,Española,Opciones vegetarianas
+603;La Taberna de Álvaro;4.0;98;€;Mediterránea,Española
+604;Catedral Taberna Restaurante;4.5;25; ;
+605;Avocado;4.0;46;€;Americana
+606;La Burmet;4.0;60;€€ - €€€;Americana,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+607;Bar restaurante ruiseñor;4.5;21;€€ - €€€;Barbacoa,Española
+608;100 Montaditos Atarazanas;4.0;38;€;Comida rápida,Española
+609;Pastelería La Princesa;5.0;17; ;
+610;Tuk Tuk Noodles Cerrado Calderón;4.0;48;€;Asiática,Tailandesa,Opciones vegetarianas
+611;El Pimiento;4.0;44;€€ - €€€;Española,Asador
+612;Restaurante Galvez;4.0;46; ;Española
+613;Mediterraneo;4.0;51;€;Mediterránea
+614;Pizzeria Nenina;4.5;28;€;Italiana,Opciones vegetarianas
+615;Pretende Gastrobar;4.5;28;€€ - €€€;Española,Fusión
+616;L'Álbero Pizzerías;4.0;52;€€ - €€€;Italiana,Pizza
+617;Meson Gallego;4.0;41;€€ - €€€;Española
+618;Cafetería-Restaurante Patricia;4.5;17; ;
+619;Zamarrilla 33;4.0;47;€;Española
+620;Cafeteria Los Villares;4.5;22; ;Española
+621;Cafeteria Plaza S.L;4.0;58;€;Café,Mediterránea,Europea,Española,Opciones vegetarianas
+622;Bellavista Mare ( Pizzorante );4.5;20;€€ - €€€;Italiana
+623;Pidebio Restaurante EcoTienda;4.5;30;€;Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+624;Buddha house;4.5;18;€€ - €€€;India,Asiática,Nepalí,Opciones vegetarianas
+625;Cal Y Canto;4.5;120;€€ - €€€;Mediterránea,Española,Marisco,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+626;Taberna Mitjana;3.5;467;€;Bar,Mediterránea,Europea,Española,Opciones vegetarianas
+627;Kima Coffee;5.0;12;€;Café
+628;La Cazuela de mi Abuela Luisa;4.5;20;€€ - €€€;Española,Asador,Barbacoa,Argentina
+629;Restaurante Alma Sicana;5.0;13; ;
+630;Chiringuito Mari Gutierrez;4.0;68;€€ - €€€;Marisco,Mediterránea,Española
+631;El Rincon de Los Pintores;4.5;17; ;
+632;O'Cono e Napule;4.5;18;€;Italiana,Pizza,Opciones vegetarianas
+633;La Taskita Del Tobita;4.0;48; ;
+634;La Farola de Cervantes;4.0;83;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+635;Hamburgueseria Pizzeria EL FARO;4.5;23;€;Pizza,Comida rápida
+636;The Dark Side Of The Moon;4.0;37;€;Bar,Británica,Europea,Pub
+637;El Rebalaje de Mijas;3.5;111;€€ - €€€;Marisco,Mediterránea,Española
+638;Heladeria Artesana Pirandello;4.5;18; ;
+639;Mantra Restaurante;4.5;16; ;
+640;Taberna la Cazuela;4.5;34; ;
+641;Pollos San Juan;4.0;32;€;Española
+642;El Tomillar Trattoria Pizzeria;4.5;24;€€ - €€€;Italiana,Pizza
+643;Burguer Parrilla;4.5;40;€;Café,Comida rápida,Pub,Pub restaurante
+644;Pizzeria Picasso;4.0;35;€€ - €€€;Italiana,Mediterránea,Opciones vegetarianas,Opciones veganas
+645;Cappuccinos Beach Side;4.5;25;€€ - €€€;Café,Británica,Europea
+646;Bar Los Pueblos Alameda;4.0;39;€;Española
+647;El Caldero;4.0;77;€€ - €€€;Mediterránea,Española,Europea
+648;The Red Dragon Golf Bar;4.0;50;€;Bar,Británica,Pub,Europea
+649;De La Mota Cafe;4.0;27;€;Española
+650;Marisqueria Los Mellizos;4.5;13; ;
+651;Chiringuito La Orilla;4.5;18; ;
+652;Chiringuito Tropicana;3.5;501;€€ - €€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+653;La Rambla;4.5;17; ;
+654;Restaurante La Grada;3.5;179;€€ - €€€;Americana,Bar,Española,Opciones vegetarianas
+655;Gastrobar Paladar;4.5;21;€;Mediterránea,Fusión,Opciones vegetarianas
+656;Restaurante japones OISHI;4.5;24;€€ - €€€;Japonesa,Sushi,Opciones vegetarianas
+657;Restaurante Coronado;4.5;16;€;Española
+658;El Pimpi Florida;4.5;18; ;Marisco,Mediterránea,Española
+659;Marco Pizzeria-Ristorante;4.0;109;€€ - €€€;Italiana,Pizza,Opciones vegetarianas
+660;Ohana Poké & More;3.5;107;€€ - €€€;Americana,Hawaiana,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+661;Tapería Aliolé;4.5;36;€;Internacional,Mediterránea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+662;El Bodegon de Paco;4.5;15; ;
+663;Meson Lo Güeno;3.5;811;€€ - €€€;Mediterránea,Europea,Española,Asador,Opciones vegetarianas,Opciones sin gluten
+664;Taberna Los Hidalgos;4.0;29; ;
+665;El Pirindin;4.5;15;€;Bar,Marisco,Mediterránea,Saludable,Street food / Comida en la calle
+666;Mojito bar;5.0;11;€€ - €€€;Americana
+667;Cafe Flor;4.0;58;€;Café,Mediterránea,Española,Europea
+668;Restaurante Caribe;4.0;38; ;Española
+669;Las Niñas Del Soho;4.5;49;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+670;El Rancho Criollo;3.5;163;€€ - €€€;Asador,Pizza,Mediterránea,Barbacoa,Europea,Argentina
+671;Raff tapas Centro Histórico;4.5;14;€€ - €€€;Americana,Española,Asiática
+672;Alma alpujarreña;4.0;51;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+673;Campo de Arroz;4.0;65; ;
+674;Taxi-Angus Burger;4.0;84;€;Americana,Opciones vegetarianas
+675;Kaiser American Food;4.0;64; ;
+676;Restaurante los Hidalgos Bodegon;4.0;30; ;
+677;Soho Cafe & Lounge;3.5;101;€€ - €€€;Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+678;Tapeatro;4.0;121;€€ - €€€;Mediterránea,Italiana,Europea,Española
+679;La Nueva Oficina;4.5;18;€€ - €€€;Mediterránea
+680;El Gallo Rojo;4.0;42;€;Café,Española,Mediterránea,Europea
+681;Dominion Beach Restaurant;4.5;18;€€ - €€€;Mediterránea,Europea,Opciones vegetarianas
+682;Lizarran Tapas bar;3.5;136;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+683;Veracruz, cocina mexicana;4.0;86;€€ - €€€;Mexicana
+684;Restaurante Richard;4.5;23;€;Española
+685;La Traviata Playa;5.0;12; ;
+686;Burguer Los Tilos;4.5;17; ;
+687;Cafeteria Juani;4.5;16; ;
+688;Restaurante Casa Vazquez;4.5;17; ;
+689;Casa rafael la luz;4.5;15; ;Marisco
+690;El Lirio;4.0;54;€€ - €€€;Mediterránea,Española,Marisco,Pub restaurante
+691;El Mortal;4.0;79;€€ - €€€;Española,Café,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+692;Vegan-té ''La Siria'' Enviar;5.0;10; ;Árabe,De Oriente Medio
+693;Meson La Alegria;3.5;179;€€ - €€€;Mediterránea,Española
+694;Lambik;3.5;227; ;Española
+695;Lo Spritz One Arroyo de la Miel;5.0;15;€€ - €€€;Mediterránea
+696;PLAN B FOOD Huelin;4.0;52;€€ - €€€;Mediterránea,Barbacoa,Española,Contemporánea,Argentina,Sudamericana
+697;Blanco Restaurante;5.0;11;€€ - €€€;Española,Bar,Café,Mediterránea
+698;Bendito;3.5;91;€;Sushi,Fusión,Street food / Comida en la calle,Opciones vegetarianas
+699;Mister Noodles;4.0;53;€;Tailandesa,Comida rápida,Asiática,Opciones vegetarianas
+700;Alea;3.5;282;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas
+701;Rincón de Gigi;5.0;10; ;Española
+702;Taberna Pon T Otra;4.0;22; ;
+703;Cali Del Sol;4.5;17;€€ - €€€;Americana,Bar,Barbacoa,Vinoteca
+704;Taperia El Nido De Goca;4.5;16; ;Española
+705;A La Turca;4.0;24;€;Opciones vegetarianas
+706;La Sarten de la Abuela;3.5;91;€€ - €€€;Europea,Española,Mediterránea
+707;Cafe Andino malaga;4.0;35;€€ - €€€;Café
+708;Restaurante Marrakech;4.0;24;€€ - €€€;Marroquí,Mediterránea,Opciones vegetarianas
+709;La Taberna del Puerto;4.5;14; ;Española
+710;La Casa de la Pasta;4.0;70;€€ - €€€;Europea,Italiana,Pizza,Internacional,Opciones vegetarianas
+711;Retrogusto;4.5;24; ;
+712;Liceo Playa;4.0;41;€€ - €€€;China,Japonesa,India,Española
+713;Xantar food & drinks;4.5;17;€€ - €€€;Internacional,Fusión
+714;Fonzo;5.0;9;€;Internacional,Española,Contemporánea,Saludable,Street food / Comida en la calle
+715;El Paladeo;4.5;16; ;
+716;Helartia Plaza del Carbón;4.0;21;€;Española
+717;Restaurante Chino Shanghai;4.0;51;€€ - €€€;China,Asiática,Opciones vegetarianas
+718;Restaurante Emilio José;4.5;22;€€ - €€€;Mediterránea,Española
+719;Chiringuito La Farola;3.5;202;€€ - €€€;Bar,Marisco,Mediterránea,Española
+720;Pizzera Frascati;3.5;109;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas
+721;Bar Zurich;4.0;22;€€ - €€€;Española
+722;BAR LA HERRADURA;4.5;18; ;
+723;Lounge Bar Plaza;3.5;534;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+724;Venta Galwey;4.0;34; ;
+725;Restaurante Syrah;4.0;40;€€ - €€€;Mediterránea,Española,Internacional,Europea,Opciones vegetarianas
+726;Carnal Grill & Club;4.0;96;€€ - €€€;Asador,Mediterránea,Barbacoa,Española,Asador,Pub restaurante
+727;Bilmore;4.0;40;€€ - €€€;Mediterránea
+728;ROMOLO Y REMO;4.0;155;€€ - €€€;Mediterránea,Italiana,Europea,Pizza
+729;Meson El Martinete;4.0;36; ;
+730;Cafe-Bar Ginebra;4.5;15; ;
+731;Korner 23;4.0;51;€;Española,Bar,Mediterránea,Europea,Pub
+732;Restaurante Apolo;4.0;68;€€ - €€€;Marisco,Mediterránea,Española,Sopas
+733;Taberna Los Tres Caracoles;4.0;44; ;
+734;Nanduti by Dora Ortiz;4.5;13;€€ - €€€;Internacional,Española,Fusión
+735;Taberna El Aserradero;4.0;50; ;
+736;PadThaiWok Malaga - Pza. Solidaridad;4.0;75;€;Asiática,Tailandesa,Comida rápida,Saludable,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+737;Bar Aviles Sl;5.0;10; ;
+738;Restaurante Santa Eugenia;4.5;32; ;
+739;Casarabonela;5.0;15; ;
+740;La Pequena Espanita;4.0;26; ;
+741;Casa Carlos;4.5;16; ;
+742;Meson El Otro S.c;5.0;16; ;
+743;Ache Restaurante Asador;5.0;17;€€ - €€€;Asador
+744;Pizzeria il Forno Sardo;4.0;31;€€ - €€€;Italiana
+745;274 & Co.;4.5;26;€;Bar,Mediterránea,Española,Pub,Italiana,Opciones vegetarianas
+746;Marisqueria Miguel;4.5;14; ;
+747;El Desván;4.5;16;€;Pub con cerveza artesanal,Bar,Café,Pub,Pub restaurante
+748;Amaro Churreria Cafeteria;4.5;12;€;Española
+749;Oriental Gong;4.0;28;€€ - €€€;China,Opciones vegetarianas
+750;Las viandas de frasco;4.5;15;€€ - €€€;Española
+751;Green Iguana Bar;4.0;33;€;Mediterránea,Española,Opciones vegetarianas
+752;Taberna la Pitarra;4.5;18;€;Bar,Comida rápida,Europea,Pub
+753;La Reserva;4.5;12; ;
+754;La Papa Loca Malaga;4.5;26;€;Española
+755;La Calle Burger Teatinos;3.5;69;€€ - €€€;Americana,Opciones vegetarianas
+756;Portico de Velazquez;3.5;70;€€ - €€€;Española,Marisco
+757;El Pescaito De Nicolas;4.0;56; ;
+758;Teteria Nirvana;4.5;23; ;Francesa,Belga,Europea,Española
+759;Jamón y Blues;4.5;14; ;Española
+760;La casita de la loma;3.5;150; ;
+761;Snack Jerusalem;5.0;8;€;Mediterránea
+762;Heladerias Valentino;5.0;9; ;Pub
+763;Kalua Helado Artesanal;4.0;27; ;
+764;Meson La Estancia;4.0;34;€€ - €€€;Tienda gourmet
+765;Andres Maricuchi;3.5;119;€€ - €€€;Marisco,Mediterránea,Europea,Española
+766;El Oasis de Juani;4.5;18;€;Española
+767;Taberna Los Barrigones;3.5;68; ;
+768;D' Vinos y Copas;3.5;67;€€ - €€€;Pub restaurante,Mediterránea,Española,Europea
+769;Restaurante Panacea Organic Market And Food;4.0;24;€€ - €€€;Española,Opciones vegetarianas
+770;La Lonja;5.0;10; ;
+771;Duran Duran;4.0;31; ;
+772;Señor Conejo;4.5;14;€;Café,Mediterránea,Opciones vegetarianas
+773;Caleta Playa;3.5;256;€€ - €€€;Marisco,Mediterránea,Española,Opciones vegetarianas
+774;El Puenta;4.5;15;€€ - €€€;Mediterránea,Española
+775;Osteria ER Compa;4.5;19;€€ - €€€;Italiana
+776;El Refugio;3.5;125;€;Española
+777;Bocateria Los Delfines;5.0;10;€;Española
+778;Casa Bere;4.5;22; ;Marisco,Mediterránea,Española
+779;Chiringuito Miguel;4.0;43;€;Mediterránea,Española
+780;Castano Oscuro;4.0;44;€;Internacional,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+781;Mercado Provenzal;3.5;143;€;Bar,Europea,Española,Pub con cerveza artesanal
+782;La Churrocatería;4.5;15; ;
+783;Matahambre;3.5;499;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+784;Romero;4.5;26; ;Mediterránea,Internacional
+785;Tejeringos Las Delicias;4.5;13;€;Española
+786;Papulinos;4.5;11; ;Española
+787;La Campana de Paula;4.5;26;€;Mediterránea,Española
+788;Halfway;4.5;16;€;Bar,Pub
+789;Azafran;4.5;45;€€ - €€€;Marroquí,Mediterránea
+790;Cafeteria Oliver;4.0;34;€;Café,Española,Mediterránea
+791;Plan B Cafe;4.5;27;€;Café,Bar,Pub
+792;La Peregrina;4.0;42; ;Marisco
+793;Restaurante Casa Juan;4.5;14;€;Opciones vegetarianas
+794;Acuario Bar and Resyuarant;4.5;17;€;Española
+795;Bella Vista Pizzorante;3.5;304;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas
+796;Vereda;5.0;21; ;
+797;La Taperia de Benalmadena;4.0;46;€€ - €€€;Mediterránea,Española
+798;Restaurante japonés Matsuya;4.0;16; ;
+799;Bar Manhattan;4.5;12;€;Mediterránea,Asador
+800;Chiringuito Lagos;5.0;9; ;
+801;Cafeteria Narixa;4.0;21;€;Mediterránea,Europea
+802;Taberna Matahambre Teatinos;4.0;20;€€ - €€€;Mediterránea,Europea,Española
+803;Smile Inc;4.0;26;€;Pub con cerveza artesanal,Café
+804;El Buen Culin Sidreria Asturiana;4.0;114;€€ - €€€;Española
+805;Hacienda del Álamo;4.5;14; ;
+806;La Posada de Brasil Vialia;4.0;33;€€ - €€€;Brasileña,Asador,Barbacoa,Española,Sudamericana
+807;Bodegas El Toro, Málaga;4.5;13; ;Pizza,Mediterránea,Española,Comedor,Saludable
+808;La Taberna de Maria y Pepe;4.5;24; ;
+809;llaollao;4.0;22; ;
+810;Bar Pizzeria La Capricho Churriana;4.5;11; ;
+811;El Balneario;3.5;733;€€ - €€€;Mediterránea,Europea,Española,Internacional,Pub restaurante,Opciones vegetarianas,Opciones sin gluten
+812;DieciNueve;4.5;28; ;Mediterránea
+813;Wattana Cocktail Club;5.0;7;€€ - €€€;Española
+814;Teteria El Pequeño Buda;4.0;22; ;
+815;El Azteca Restaurante & Bar Mexicano;4.0;40;€€ - €€€;Mexicana,Latina,Española,Saludable,Sudamericana,Centroamericana
+816;Cafeteria Bar El Vecino;5.0;8; ;
+817;Ta-Kumi Malaga;4.0;17;€€€€;Japonesa
+818;Steves Bar;4.5;12; ;
+819;100 Montaditos;4.0;25;€;Opciones vegetarianas
+820;El Tiburon Taurino;4.5;22; ;
+821;La Taberna Del Castillo;4.0;18;€€ - €€€;Española
+822;Restaurante Wok De Li;4.5;11; ;
+823;La Canasta;3.5;68;€;Café,Española,Europea,Opciones vegetarianas
+824;Hotel Castillo de Santa Catalina;4.5;17;€€ - €€€;Española
+825;La Piccolina;3.5;92;€€ - €€€;Italiana,Pizza
+826;El Sacromonte Tapas;4.0;56;€;Mediterránea,Española,Europea,Opciones vegetarianas,Opciones sin gluten
+827;Tejeringo´s;4.0;35; ;
+828;Chiringuito Aquí Mismo & Playa Antonio;4.0;42; ;
+829;Asador Europa 2;5.0;12;€;Argentina,Sudamericana,Española
+830;Mamma Mia;4.0;21;€€ - €€€;Opciones vegetarianas
+831;Restaurante Jesús Gutiérrez Amitabha;3.5;179;€€ - €€€;Marisco,Mediterránea,Española,Europea,Opciones vegetarianas
+832;Fuente de la Reina;4.0;27;€€ - €€€;Española
+833;Cafeteria Axarquia;4.5;20;€;Mediterránea,Española,Europea
+834;El Dorado;4.0;24; ;Comida rápida
+835;Burger Scooby;4.0;36; ;
+836;Cerveceria 100 Montaditos;3.5;126;€;Bar,Comida rápida,Europea,Española,Pub
+837;Qbo;5.0;7; ;
+838;Secreto del Vino;4.0;26; ;
+839;Chiringuito Oasis;3.5;194;€€ - €€€;Bar,Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones sin gluten
+840;Marisqueria-Freiduria Salvador y Lucas;4.5;12; ;
+841;Teteria Palacio Nazari;3.5;276;€€ - €€€;Marroquí,Café,De Oriente Medio,Opciones veganas,Halal,Opciones vegetarianas
+842;Cafeteria Rialto;4.5;12; ;
+843;Mindanao Pinchos&Drinks;4.5;9;€;Mediterránea
+844;Kimchi Casualfood;4.5;10;€€ - €€€;Mexicana,Japonesa,Americana,Española
+845;Nomad Pedregalejo;4.0;22;€€ - €€€;Mediterránea,Pub
+846;A la turca;4.0;11; ;Turca
+847;Millesimee;4.5;14;€€ - €€€;Italiana,Española
+848;El Kiosko de la Loma;4.5;11; ;
+849;Papulinos;3.5;113;€€ - €€€;Asador,Asador
+850;Mané;5.0;7;€€€€;Española
+851;Restaurante Palo Cortado;3.5;98;€€€€;Española,Opciones vegetarianas
+852;Pizzerias Carlos;3.5;175;€;Italiana,Pizza,Opciones vegetarianas
+853;El Paleño;5.0;7;€€ - €€€;Mediterránea
+854;Restaurante Lounge Ocean;4.0;26;€€ - €€€;Mediterránea
+855;Dapis Tinto;4.0;29;€€ - €€€;Mediterránea,Española,Fusión
+856;Taxi-Angus Burger;5.0;8;€;Americana
+857;Restaurante De Sal;4.0;37; ;Mediterránea,Española,Europea
+858;Cinecom Santa Ines;4.0;28;€€ - €€€;Pizza,Barbacoa,Española
+859;El Despachito de Gloria;3.5;59;€;Mediterránea,Española
+860;Fernando Mira Monerris;5.0;8; ;
+861;Las Merchanas;4.0;22;€;Española
+862;Los puntales;4.5;9;€;Mediterránea
+863;Limonar40;3.5;107;€€€€;Mediterránea,Española,Europea
+864;GKTime Soho Malaga;4.5;7;€€ - €€€;Americana,Pub,Pub restaurante
+865;The Churretes;4.5;12; ;
+866;Casa Diego Tapas & Wines;4.0;75;€€ - €€€;Mediterránea,Europea,Española
+867;Bocadillos Frankfurt's Bocanegra;4.0;33;€;Alemana,Europea,Centroeuropea
+868;Mesón Agustín;4.0;36; ;
+869;D'Agus Burguer;4.5;8;€;Americana,Española
+870;TAPERÍA LOS GRANAÍNOS;4.5;9; ;
+871;Pica Y Mica;4.0;13;€;Opciones vegetarianas
+872;Los Piratas;4.0;19; ;
+873;Restaurante Gutierrez Playa;3.5;289;€€ - €€€;Europea,Marisco,Mediterránea,Española
+874;Restaurante La Barbacana;3.5;80;€;Café,Mediterránea,Europea,Española
+875;De Entibo Gastrotapas & Streetfood;5.0;6;€€ - €€€;Marroquí,Mediterránea,Española,Fusión
+876;Inca Bokeron Cocina Peruana;5.0;7; ;
+877;Summer Restaurante;4.5;12;€€ - €€€;Mediterránea
+878;Le Grand Café;3.5;107;€;Café,Contemporánea,Pub,Pub con cerveza artesanal,Pub restaurante
+879;Adicción Italian GastroBar;4.5;11;€;Italiana,Mediterránea
+880;Entre Varales;3.5;103;€€ - €€€;Mediterránea,Española
+881;El Restaurante Del Cat;3.5;71; ;
+882;Natural Noodles;4.5;28;€;Asiática,Tailandesa,Fusión
+883;Bar Restaurante Casa Valverde;5.0;9; ;
+884;El Almacen;4.5;13; ;
+885;La Casa de Anyo;5.0;6; ;
+886;taj palace;3.5;132;€€ - €€€;India,Opciones vegetarianas,Opciones veganas,Halal
+887;Cafeteria El Trenecito;3.5;39;€;Española
+888;Amsterdam Cafe;4.0;19; ;
+889;De Gibralfaro la Terrazita;4.0;12;€;Italiana,Mediterránea,Española
+890;La Reserva Málaga;4.0;29;€€ - €€€;Española,Mediterránea
+891;Las Brasas del Ancla;5.0;10; ;
+892;Bar Candelaria;4.5;9; ;
+893;Le Petit Paris;5.0;6;€;Mediterránea,Sudamericana
+894;Guiños Gastrobar;4.5;9;€€ - €€€;Mediterránea
+895;Alma Napoletana;4.0;19; ;
+896;Pizzeria La Faina;4.5;22;€;Opciones vegetarianas
+897;El Fogón de Guadalmar;4.5;8; ;
+898;Chill Sea Lounge;4.5;10;€€ - €€€;Sushi,Asiática
+899;Cantarrana Malaga SL.;4.0;24;€€ - €€€;Mediterránea,Española
+900;Cafeteria Sabora;3.5;59;€;Café,Española
+901;Bar Baena;4.0;14;€;Mediterránea,Española
+902;Mandel-hof;4.0;17;€€ - €€€;Española
+903;Bar Restaurante Hermanos Rodríguez;4.5;21;€;Bar,Marisco,Mediterránea,Española,Pub
+904;Dallas Hamburgueseria;3.5;46; ;
+905;El Tablon;3.5;35; ;
+906;El apartamento;3.5;255;€€ - €€€;Bar,Mediterránea,Europea,Española,Opciones vegetarianas
+907;Picasso;3.5;109;€€ - €€€;Marisco,Mediterránea,Europea,Española
+908;Pizza Pino;3.5;153;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas
+909;La Posada;3.5;253;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+910;Meson Tobalo's;4.0;47;€€ - €€€;Española
+911;Heladería Santa Gema;4.0;28;€;Café
+912;La Calle Burger Parque del Oeste;4.5;7;€€ - €€€;Americana
+913;Venta Gallardo;4.0;25; ;
+914;Kawai Poké Bar;4.5;20;€€ - €€€;Hawaiana
+915;Papulinos III;4.0;34;€€ - €€€;Española
+916;Paris Snack Coffee;4.5;19;€;Marroquí,Mediterránea,Opciones vegetarianas
+917;Chez Max;4.0;38;€€ - €€€;Mediterránea,Francesa,Europea
+918;The Cosy Corner;4.5;8; ;
+919;los Amigos;4.5;9; ;
+920;Casa Luciano;4.0;13; ;Bar
+921;Drunk-O-Rama;4.5;49;€;Española
+922;Bar Los Del Colmenar;3.5;67;€;Mediterránea,Española,Opciones vegetarianas,Opciones veganas
+923;Cortijo Los Chalanes;4.0;34;€€ - €€€;Mediterránea
+924;Happy Fish;4.5;10; ;Española
+925;La Reserva Del Siglo;4.0;14; ;
+926;Bar la Purisima. Pedregalejo;4.5;9;€;Española
+927;Marco y fatima. Nuestro bar;5.0;7; ;Mediterránea,Española
+928;Ciao Plaza del Obispo 3;3.5;52;€€ - €€€;Italiana,Mediterránea,Europea,Pizza,Opciones vegetarianas
+929;Sueños Bar;5.0;7; ;
+930;Cafetería La Bellota;5.0;7; ;
+931;Teteria Deja Vu;4.5;10; ;Café
+932;Del norte al sur;3.5;61;€€ - €€€;Mediterránea,Española,Europea
+933;Restaurante Los Gorditos;5.0;5;€€ - €€€;Marisco,Mediterránea,Española
+934;Restaurante Hija De Antonin;4.0;23; ;
+935;Nueva Taberna El Pedregal;4.5;7; ;
+936;Il Termopolio;3.5;66;€€ - €€€;Italiana,Mediterránea,Europea,Opciones vegetarianas
+937;Mamma Mia;3.5;111;€€ - €€€;Italiana,Pizza,Europea,Mediterránea,Opciones vegetarianas
+938;Casa Rabat;5.0;5; ;Marroquí,Mediterránea
+939;La Cabana;4.5;7; ;Española
+940;Merendero Casa Jose;3.5;56;€€ - €€€;Marisco,Mediterránea,Española
+941;La Cazuela;5.0;10; ;Española
+942;Bodegas Quitapenas;3.5;183;€€ - €€€;Marisco,Mediterránea,Española
+943;Goiko Grill;3.5;97;€€ - €€€;Americana
+944;La Maritima;4.5;8; ;
+945;Chupito Loco;4.5;6; ;
+946;De Carolina;3.5;41;€€ - €€€;Española
+947;Estambul Grill Restaurante;4.5;9;€€ - €€€;Internacional,Turca
+948;BURGUER DALLAS BANDERA;4.0;16; ;Comida rápida
+949;Rincon Che;3.5;70;€€ - €€€;Bar,Mediterránea,Española,Europea
+950;Los Locos Malaga;3.5;17;€;Española
+951;Don Chollo;3.5;19; ;
+952;El Cortijo;4.5;12;€;Café,Barbacoa,Española,Street food / Comida en la calle
+953;Bar El Tornado;4.5;7; ;
+954;La Canasta La Malagueta.;3.5;72;€;Española,Opciones vegetarianas
+955;La Costa Snack Bar;3.5;36;€;Mediterránea,Europea,Pub
+956;Chiringuito Rocamar Malaga;3.5;90;€€ - €€€;Marisco,Mediterránea,Española
+957;Las Acacias Hostal Restaurante;4.0;16;€€ - €€€;Mediterránea
+958;La Taberna de Juan;4.0;17; ;Española
+959;Candado Beach;3.5;85;€€ - €€€;Mediterránea,Española
+960;El Pescaito;4.5;9;€€ - €€€;Marisco
+961;Muerde La Pasta El Ingenio;3.5;173;€€ - €€€;Italiana,Mediterránea,Europea,Opciones vegetarianas
+962;La Romantica;3.5;66;€€ - €€€;Italiana,Mediterránea,Europea
+963;Alquimia Bar;4.5;9;€;Española
+964;Hamburguesería Maruchi;4.0;30; ;
+965;La Scala Ristorante;3.5;136;€€ - €€€;Italiana,Pizza,Café,Mediterránea,Opciones vegetarianas
+966;Encaste gourmet;5.0;5; ;Mediterránea
+967;Bar Cafeteria Zapata;4.0;23; ;
+968;Pizzería Arte In Farina;4.5;86;€;Opciones vegetarianas,Opciones veganas
+969;Cafeteria-Bar El Ancla;4.5;8; ;
+970;Gold;4.0;22;€€ - €€€;Mediterránea,Europea,Italiana,Española
+971;Don Peperone;5.0;7; ;Española
+972;Restaurante Reyes;5.0;5;€;Bar,Café,Pub
+973;Sabor a España;4.0;14;€€ - €€€;Española
+974;Malaga Fussion Soho;5.0;6; ;
+975;Mediterranean;3.5;33; ;
+976;Asador de Pollos Don Pablo;4.5;6; ;
+977;Aromas Lounge;3.5;43; ;
+978;Restaurante Real Club Mediterráneo;3.5;67;€€ - €€€;Mediterránea,Europea,Española,Internacional
+979;Taberna Restaurante La casona;4.0;16;€€ - €€€;Española
+980;De La Mota Cafe;4.0;9; ;
+981;Restaurant Tintero Campero;3.5;42;€€ - €€€;Mediterránea,Barbacoa,Española,Asador
+982;Cafe Club Carambuco;4.0;20; ;
+983;Hamburgueseria Mendivil;3.5;44; ;
+984;Restaurante Principe de Asturias;4.0;15; ;
+985;La Chunga;3.5;57;€€ - €€€;Mediterránea,Española,Bar,Europea
+986;El Costi;4.5;7;€€ - €€€;Española
+987;Rebana Perota;4.0;18; ;Mediterránea,Española
+988;NH Malaga Restaurant;4.0;17; ;
+989;El Andaluz De La Malagueta;4.0;13; ;
+990;Ice Bar;3.5;46; ;
+991;Taberna Mata Hambre;3.5;139;€€ - €€€;Mediterránea,Española
+992;La Biznaga De Larios;4.0;13; ;
+993;Taberna del Volapié Strachan;3.5;188;€€ - €€€;Española
+994;Cafeteria Taperia Fajardo;4.0;8; ;
+995;Valdi;3.5;35;€;Española
+996;Cafe Simple;5.0;5; ;
+997;Boss Cafe;4.5;9; ;
+998;Pans and Company;3.5;21; ;
+999;Buffet Asiel;3.5;190;€€ - €€€;China,Sushi,Asiática
+1000;El Huerto Hamburguesería;4.0;12; ;
+1001;The Robin Hood;4.0;25;€;Británica
+1002;Casa Alhambra;5.0;5;€;Marroquí,Mediterránea
+1003;Taberna Coto;3.5;70;€€ - €€€;Mediterránea,Española
+1004;Hierbabuena;3.5;63;€€ - €€€;Mediterránea,Europea,Española
+1005;La Mejillonería;4.0;15; ;Española
+1006;El Rincón del Queso;3.5;25;€€ - €€€;Española,Tienda gourmet
+1007;Restaurante El Envero;4.5;304;€€€€;Marisco,Mediterránea,Europea,Española,Opciones vegetarianas,Opciones veganas,Kosher,Opciones sin gluten
+1008;Mas Que Pizza;4.0;15; ;Italiana
+1009;Casa Paco;5.0;5; ;
+1010;Central Malagueta;4.5;6; ;
+1011;Alborea Cafe Bar;5.0;5; ;Española
+1012;Cafetería Bar Canito;4.5;7; ;
+1013;Guacamole Mexican Food;5.0;4;€;Mexicana,Mediterránea
+1014;Napule È;5.0;4; ;Italiana
+1015;4Gatos Taperia;4.5;15;€;Mediterránea,Española,Saludable
+1016;Marina Grill Bar;4.5;6; ;
+1017;El Hormiguero;3.5;67; ;
+1018;El Mercado;4.5;8; ;Española
+1019;Loving Hut;4.0;7;€;Asiática
+1020;En K' Lola;5.0;4;€€ - €€€;Mediterránea
+1021;Lo de Jorge;3.5;42;€€ - €€€;Mediterránea,Española,Europea
+1022;Cafeteria Don Federico;4.0;13; ;
+1023;Venta Hermanos Moreno;4.5;7; ;
+1024;Benjamin de la Mata;3.5;40;€€ - €€€;Japonesa,Sushi
+1025;Tintotenzo;4.0;10; ;
+1026;Paco Zacarias Bar;4.5;8; ;
+1027;Pizzeria & Ristorante Gianni;3.5;43;€€ - €€€;Italiana,Pizza,Opciones vegetarianas
+1028;Restaurante La Abuela Paca;4.0;10; ;
+1029;Bar Mercado de Huelin;4.0;7; ;
+1030;Asador El Pollo Pera;5.0;4;€;Asador,Española
+1031;El Rincón de la Tapa;4.5;6;€€ - €€€;Española
+1032;Vegetariano El Tesoro del Puchero;4.5;5;€€ - €€€;Mediterránea,Española,Fusión,Saludable
+1033;Love Is... Bakery;4.0;33; ;
+1034;Los Marineros;3.5;63;€€ - €€€;Marisco,Mediterránea,Europea,Española
+1035;El Tapeo de Huelin;5.0;5; ;
+1036;D'gustar;3.5;92;€€ - €€€;Mediterránea,Europea,Española
+1037;Consorcio Escuelas de Hosteleria de Benalmadena;4.5;7; ;Contemporánea
+1038;Restaurante Merlo;3.0;192;€€ - €€€;Marisco,Mediterránea,Española,Europea
+1039;Azafran Oasis Restaurant;5.0;6;€;Internacional,Española,Opciones vegetarianas
+1040;Tano's Bar;3.5;24; ;
+1041;Tasty Poke Bar;4.5;12; ;
+1042;venta san juan;3.5;47;€€ - €€€;Española
+1043;Casa Lobato;4.5;5;€€ - €€€;Pub con cerveza artesanal,Bar,Café,Mediterránea,Española,Pub
+1044;Bar Los Dos Compadres;5.0;5; ;
+1045;Cafe Negro;3.5;151;€€ - €€€;Bar,Café,Mediterránea,Europea,Española
+1046;Mas Que Cafe;5.0;5; ;
+1047;Chiringuito El Espigon;3.5;61;€€ - €€€;Marisco,Mediterránea
+1048;Oce Blind II;5.0;5; ;
+1049;Sushi Artist;4.0;32;€;Japonesa,Sushi,Asiática,Saludable
+1050;La Checa;4.0;10; ;Mediterránea,Española,Internacional
+1051;Restaurante La Tralla;4.5;5;€€ - €€€;Marisco,Mediterránea,Española
+1052;I Love Pizza;5.0;4; ;
+1053;El Tapeo de Vignolo;4.5;9; ;Española
+1054;Cafe Rock Irlandes;4.0;12; ;
+1055;Gourmet Experience;3.5;153;€€ - €€€;Mediterránea,Sushi,Europea,Española,Asiática,Opciones vegetarianas
+1056;Taberna Pata Negra;4.0;10;€€ - €€€;Española
+1057;100 Montaditos Plutarco;3.5;54;€;Española,Opciones vegetarianas
+1058;Bakkano Drinks and Food;4.0;9;€;Internacional
+1059;Restaurante Casa Jaime;5.0;4; ;
+1060;Bar Regina;4.0;14;€;Española,Mediterránea,Bar
+1061;Don Gallo Asador De Pollos;4.5;7; ;
+1062;Marisqueria la Esquinita;4.5;7; ;
+1063;Marisqueria Los Delfines;4.5;5;€€ - €€€;Marisco
+1064;Mario-Eva;3.5;45; ;
+1065;Restaurante La Dehesa;3.0;218;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+1066;Restaurante La Princesa;4.5;6; ;
+1067;La Cervezoteca Zona Oeste;4.0;11; ;
+1068;Autocerveceria Gondor;3.5;20; ;
+1069;Burger Chupete;4.0;11;€;Española
+1070;La Taza de Oro;5.0;4;€€ - €€€;Tienda gourmet
+1071;Jalisco;3.5;45;€€ - €€€;Mexicana
+1072;Patagonia Asador;3.5;69; ;
+1073;Periplo;3.5;39;€;Café,Comida rápida,Saludable
+1074;Pepe Oliva;4.0;10; ;
+1075;Cafeteria Eva;4.0;9; ;
+1076;El Rincon de Lola;4.0;10; ;Bar,Española,Asador,Pub,Comedor
+1077;Cafeteria Taperia El Paso;3.5;22;€;Española
+1078;El Gallo Ronco;3.5;279;€€ - €€€;Bar,Mediterránea,Española,Opciones vegetarianas
+1079;Granier;4.5;5;€;Francesa,Alemana,Holandesa,Internacional,Europea,Española
+1080;Bar El Acebuchal;5.0;4; ;Española
+1081;La Central Del Soho;4.0;11; ;Española
+1082;Ciao;3.0;621;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+1083;McDonald's Los Patios Málaga;3.0;20; ;
+1084;Dbandera;3.5;48;€€ - €€€;Española,Mediterránea,Opciones vegetarianas
+1085;Casa Soler;4.0;6; ;Mediterránea,Española
+1086;La Barra del Soho;4.0;16;€€ - €€€;Española,Fusión
+1087;Bocatas Juanma;3.5;31; ;
+1088;Restaurante El Torcal;4.0;11; ;Española
+1089;La Marina Lounge;4.0;10;€€ - €€€;Mediterránea
+1090;Bodega Quitapenas;3.5;53;€€ - €€€;Mediterránea,Española,Marisco
+1091;Cafeteria Flor;3.5;36;€;Café,Mediterránea,Española
+1092;Restaurant Nostrum;3.5;22;€€ - €€€;Española,Mediterránea
+1093;La Frambuesa;3.5;28; ;
+1094;Chiringuito Casa Juan;4.0;12; ;
+1095;Restaurante Tapería Esencia;4.0;37;€;Mediterránea,Española
+1096;Los Alba;5.0;4;€;Mediterránea
+1097;Jandia;4.0;9; ;
+1098;Mediterraneo Playa Cafe & Bar;4.5;12;€;Café
+1099;Ethycakes;4.5;10;€;Café,Kosher
+1100;Bodeguita;3.5;14;€€ - €€€;Marisco
+1101;Taco Bell;3.5;24; ;
+1102;La Tortuga Pedregalejo;4.0;19;€;Pub,Pub restaurante
+1103;Restaurante Marisquería Altamar;4.0;21; ;
+1104;Antonio Torres Restaurante;3.5;20; ;Española
+1105;Was scubies fuengirola;4.0;15;€;Bar,Británica,Pub
+1106;La Magia del Melon;4.0;11; ;Pizza,Española
+1107;PadThaiWok Málaga - Santa Paula;4.0;6;€;Asiática,Tailandesa,Saludable,Street food / Comida en la calle
+1108;Hacienda Nadales;4.0;10; ;
+1109;Bar Los Barcos;4.5;7; ;
+1110;IKEA;3.5;97;€;Comida rápida,Europea,Sueca,Escandinava
+1111;Foster's Hollywood;3.0;141;€€ - €€€;Americana,Barbacoa,Centroamericana,Sudamericana
+1112;Parrilla La Chimenea;3.5;55; ;Barbacoa,Asador
+1113;Zest Restaurant Cafe Marbella;4.0;10; ;Internacional,Mediterránea,Española
+1114;El Gaucho II;3.5;47; ;
+1115;Bar el Romeral;4.5;5; ;
+1116;Restaurante LOS GABRIELES (antes Chiringueti);4.5;5; ;
+1117;Yolimar;4.0;11; ;
+1118;D'Arte;4.0;11; ;Española
+1119;El mesoncito del Limonar;4.5;5;€€ - €€€;Mediterránea
+1120;La pizza;3.5;69;€;Pizza
+1121;Puerta Nueva;4.0;6; ;
+1122;Joys Deli;5.0;4; ;Británica
+1123;Cafeteria Restaurante Bar Alameda Martiricos;4.0;14; ;
+1124;Pulcino Pizza;4.5;4;€;Italiana
+1125;La Nave Gastro Bar;4.5;4; ;Española
+1126;Cereal Brothers;5.0;3;€;Internacional,Española
+1127;Bar El Racimo;4.5;5; ;Café,Marisco
+1128;Merced 14 Cafe;3.5;58;€;Café,Bar,Mediterránea,Europea,Española,Pub
+1129;La Terraza de San Juan;3.5;12; ;Japonesa,Café,Contemporánea
+1130;Restaurante Manzano;4.0;10; ;
+1131;Marisqueria La Garrucha;4.0;12;€€ - €€€;Marisco,Mediterránea,Española,Contemporánea
+1132;LoveMunchies;5.0;3;€;Street food / Comida en la calle
+1133;Casa Bravo;5.0;4; ;
+1134;Tetería La Manquita;3.5;33;€€ - €€€;Marroquí
+1135;Restaurante Bar Vista Del Valle Del Genal;4.5;4;€€ - €€€;Mediterránea,Española
+1136;Restaurante Juma;4.0;8; ;
+1137;El Ojopatio Tapas bar;3.0;156; ;Mediterránea
+1138;Cafetería Selección Los Pastores;5.0;3; ;Bar,Café,Española,Pub
+1139;Cafeteria Bar Panroma;4.0;5; ;
+1140;Pomodoro;3.5;31;€;Opciones vegetarianas
+1141;Taberna K-Pote;4.5;5; ;Española
+1142;Rincón Romero;4.5;5; ;
+1143;Panam Resto Bar;3.5;19; ;Española
+1144;Restaurante Marisqueria La Herrera;5.0;5; ;
+1145;The Harbour;4.0;6; ;Mexicana,Pizza,Internacional,Mediterránea
+1146;Wonka;3.5;64; ;
+1147;Friendley Lounge;5.0;4; ;Vinoteca
+1148;Quitapenas Puerto;3.0;72;€€ - €€€;Española
+1149;The Show Must GO on;3.5;13; ;
+1150;Tano's;3.5;22; ;
+1151;Periplo;4.0;7;€;Bar,Café,Comida rápida,Saludable,Pub restaurante
+1152;Cerveceria Granaina;3.5;39; ;Mediterránea
+1153;El Chanco;5.0;5; ;Asador
+1154;Restaurante Chino Nuevo Shangai;4.5;5; ;Asiática
+1155;Pak Turk Kebab;4.5;4; ;
+1156;Amor & Comida;4.0;8;€€ - €€€;Contemporánea,Fusión,Saludable
+1157;El Rincon De Juanca;5.0;4; ;
+1158;Flamingo;4.0;7;€;China
+1159;Burguer Mafalda;3.5;20; ;
+1160;Potattoo;4.0;5; ;Americana,Europea,Española,Street food / Comida en la calle
+1161;100 Montaditos;3.5;10; ;Española
+1162;Meson Hardales;4.5;7; ;Mediterránea
+1163;La Galerna;3.5;297;€€ - €€€;Mediterránea,Europea,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+1164;Baga;4.5;6; ;
+1165;Las Camborias;5.0;3; ;
+1166;Taberna Casa Antonio;4.5;11;€€ - €€€;Marisco,Española,Contemporánea,Saludable
+1167;Meson El Montecillo;4.0;9; ;Mediterránea
+1168;Cafeteria Taperia Ines;4.0;5; ;Española
+1169;Primitivo Restaurante;5.0;8; ;
+1170;Bar Los Faroles;5.0;3; ;
+1171;Yamasato;3.5;39;€€ - €€€;Asiática
+1172;Paco Torres;4.0;12; ;Mediterránea
+1173;Restaurante Casa Atenea;3.5;57;€€ - €€€;Mediterránea,Española,Asador
+1174;Restaurante Pizzeria Débora;3.5;26;€€ - €€€;Pizza
+1175;Las Merchanas;4.0;5; ;Española
+1176;Casa Vicente;4.0;5; ;
+1177;enCarnes gastrogrill de Cholo;3.5;25;€€ - €€€;Española
+1178;Pizza e Amore Málaga;5.0;4; ;
+1179;Restaurante Bistro L'Opera;4.0;16; ;Café,Internacional,Española
+1180;Trastevere;3.0;127;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas
+1181;Restaurante chino Gran China;3.5;20;€€ - €€€;China,Asiática
+1182;El Gallo Negro;3.5;72;€;Mediterránea,Española
+1183;Susurro Flamenco;4.5;4; ;
+1184;Calabrisella;4.5;3; ;Italiana
+1185;Jamoneria Fuentes;4.5;5; ;Española
+1186;El Rincón De La Piedra;3.5;38;€€ - €€€;Española
+1187;La Casita De La Patata;3.5;33; ;
+1188;Don Pataton;3.5;15; ;
+1189;Mister Lee;4.5;4; ;
+1190;La Fabrica;3.0;216;€€ - €€€;Internacional,Española,Bar,Europea
+1191;Ginos Vialia;3.5;79;€€ - €€€;Mediterránea,Italiana,Europea,Opciones vegetarianas
+1192;Restaurante La Alcazaba;4.5;3;€€ - €€€;Española
+1193;Viva Lola;3.5;13;€€ - €€€;Mediterránea
+1194;Bar Roper;4.5;4; ;
+1195;Punjab Palace;4.0;6; ;Balti,De Europa oriental
+1196;Pathelin;3.5;16; ;
+1197;Kiko's Healthy Food;4.0;8;€€ - €€€;Fusión
+1198;Cafe Del Cerrado;4.5;3; ;
+1199;Venta Cotrina;4.5;4; ;
+1200;Meson Bar Aguilar Cruzcampo;3.5;15; ;
+1201;Cafe & Tapas;3.5;11;€€ - €€€;Española
+1202;Kaleido Málaga Port;3.0;304;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+1203;Pombo Gastrobar;3.5;17;€€ - €€€;Mediterránea,Sudamericana
+1204;Alcazaba;4.0;9; ;
+1205;Escuela de Hosteleria de Malaga;5.0;4; ;
+1206;Elite Restaurante;4.0;6; ;Café,Internacional,Mediterránea
+1207;Restaurante La Bonagüa;4.0;7;€;Mediterránea
+1208;Victoria;5.0;3; ;
+1209;Silk Marbella;4.0;7; ;
+1210;La Cabaña de Miraflores;5.0;3;€;Española
+1211;Chopp Solidaridad;3.5;13; ;
+1212;Marisqueria Rios;4.0;10; ;Marisco,Española
+1213;Bar-Cafeteria Samoa;3.5;10;€;Española
+1214;Bftruck;5.0;3;€;Americana
+1215;Chocolata;4.5;3; ;
+1216;El Andén;3.5;18; ;
+1217;Los Abanicos;4.5;7; ;Mediterránea
+1218;Tuk Tuk Noodles;4.5;3;€€ - €€€;Asiática,Tailandesa,Saludable
+1219;Dehesa Santa Maria Thyssen;3.5;52;€€ - €€€;Española,Mediterránea,Europea
+1220;Las Acacias;3.0;244;€€ - €€€;Marisco,Mediterránea,Europea,Española
+1221;Bodegas Quitapenas;3.0;215;€€ - €€€;Mediterránea,Española
+1222;LODELOLA;4.5;3; ;Española
+1223;Los Olivos;4.0;7; ;Mediterránea
+1224;El Consistorio Taberna Urbana;4.5;4;€€ - €€€;Mediterránea,Española
+1225;The Wok;4.0;8; ;China
+1226;Coren Grill;3.5;8; ;
+1227;Taberna del Volapie PZ Marina;3.0;92;€;Bar,Mediterránea,Europea,Española,Tienda gourmet
+1228;Gorki;3.0;541;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+1229;Restaurante Lounge Bar El Rinconcito de Malaga;4.0;9;€€ - €€€;Española
+1230;Cinecom;4.0;5; ;Pizza
+1231;Bar Dona Mariquita;3.5;36; ;
+1232;Chiringuito Mediterraneo;3.5;27; ;
+1233;Restaurante La Piscina Hermanos Escribano;5.0;4; ;
+1234;Los Gabrieles;4.5;3; ;
+1235;Marisqueria Vicente;4.5;4; ;Española
+1236;Meson Piqueras;3.5;14; ;Española
+1237;La Fortaleza;4.5;3;€€ - €€€;Mediterránea,Española,Argentina,Sudamericana
+1238;Mini Market Café;4.0;6;€€ - €€€;Española,Británica
+1239;Cafetería Camilo;4.5;4; ;
+1240;Tonyshoarma;4.0;5; ;
+1241;Restaurante Ruance;3.5;16;€€ - €€€;Española
+1242;Bar Haro II;4.0;5; ;
+1243;Mesón Los Gaitanes;4.0;8; ;Española
+1244;Restaurante Los Marines;4.0;5; ;
+1245;Bar Al Rocio Tapeo Copeo;4.5;3; ;
+1246;Green Garden;5.0;2;€€ - €€€;Mediterránea
+1247;El Pasaje;5.0;3;€€ - €€€;Pub con cerveza artesanal,Española,Pub
+1248;Restaurante las tres calles;5.0;2;€€ - €€€;Española
+1249;Asador La Piedra;3.5;10; ;Española
+1250;La Terraza;4.0;6; ;
+1251;The Old Grill;3.5;12; ;Mediterránea,Española,Barbacoa
+1252;La Canasta;3.0;81;€€ - €€€;Española
+1253;Cafetería Restaurante Juandi;3.5;18;€;Café,Comida rápida,Mediterránea,Española
+1254;Restaurante la Antigua Ventilla;3.5;42;€€ - €€€;Mediterránea
+1255;GuGuTe;5.0;2;€;China,Comida rápida,Española,Asiática,Coreana
+1256;Restaurante Asiático Agua Asia;5.0;2; ;
+1257;Casa Feliz;3.5;24;€;China
+1258;El Forjador;5.0;3; ;
+1259;Asador La Linea;4.0;5;€€€€;Mediterránea
+1260;Cafe bar buen comer;5.0;2;€;Española
+1261;Restaurante chino Gran Dragon;3.5;17;€;Asiática
+1262;Casa Antonio;4.0;4; ;
+1263;Rincon de Chinitas;3.0;143;€€ - €€€;Marisco,Mediterránea,Española
+1264;WHYBeers;4.5;4; ;Pub con cerveza artesanal,Tienda gourmet,Pub
+1265;Ottavia;4.0;6; ;
+1266;Zinkinn Casual Food;5.0;2;€;Café,Mediterránea,Española,Comedor,Saludable
+1267;La Tiza Cervecería;3.5;15; ;Bar,Española
+1268;Jovellanos;5.0;2;€;Asador
+1269;Padilla II;3.5;17; ;
+1270;Cafetería/Heladería La Luna;4.0;4; ;Café
+1271;Be Happy;3.0;37;€;Española,Bar,Pub
+1272;Canta El Gallo;3.5;16; ;
+1273;Mister Noodles;4.0;6; ;
+1274;capriccios;4.0;6;€€ - €€€;Italiana
+1275;Golosas sin Gluten;5.0;2; ;
+1276;De Roble;4.0;5; ;Mediterránea
+1277;La Plaza Gastronomia;3.5;12; ;
+1278;Ocean View Bar;4.0;4; ;Bar,Pub
+1279;Rinconcito Reyes;5.0;2; ;
+1280;Dulce & Capricho;5.0;3; ;Café
+1281;Cybergol Sportbar y Cafetería;4.5;5; ;Bar,Pub
+1282;Plaza 16;3.5;107;€€ - €€€;Española
+1283;La Fiore Heladeria Cafeteria;5.0;2;€;Café
+1284;AZUL TERRAZA RESTAURANTE;3.5;25;€;Japonesa,Mediterránea,Española,Fusión
+1285;Taberna El Rinconcito;4.5;3; ;
+1286;Vuala;3.5;17; ;
+1287;Route 66;4.0;11;€;Americana,Alemana
+1288;El pintor;4.5;3;€;Pizza,Comida rápida
+1289;Restaurante Daneku Ecológico;3.5;8;€€ - €€€;Internacional,Comedor
+1290;Restaurante Chiringuito Vicen Playa;4.0;109;€€ - €€€;Mediterránea,Española
+1291;Bar Luchi;4.0;5; ;
+1292;Geloziña Central Coffeeshop;5.0;2;€;Italiana,Española,Británica
+1293;Mediterranea Restaurante;5.0;2;€€ - €€€;Italiana
+1294;Fosters Hollywood;3.5;18; ;Mexicana,Americana,Contemporánea,Comedor
+1295;Chino Nuevo Siglo;5.0;2; ;
+1296;El Rincon Iberico;4.5;3; ;
+1297;Chiringuito Los Compadres;3.5;18; ;
+1298;Restaurante Japones Arigato;3.0;112;€€ - €€€;Japonesa,Sushi,Asiática,Opciones vegetarianas
+1299;Harry's;4.0;6; ;India
+1300;Restaurant Colinas Del Faro;4.0;7; ;Mediterránea
+1301;Bar Dimppi;4.5;3; ;
+1302;Pizza miramonte;5.0;3; ;Italiana
+1303;Nandos Tasca;5.0;2; ;
+1304;Cafeteria Churrería Casa Paco;5.0;2; ;
+1305;Hamburguesería Valdi;4.0;11; ;
+1306;Pizzeria Hercules;3.5;64;€;Pizza,Europea
+1307;Taco Bell;4.0;5; ;Mexicana
+1308;CALERO BREWERY;5.0;2;€;Pub con cerveza artesanal,Pub
+1309;La Ménsula Marinera;4.5;35;€€ - €€€;Mediterránea
+1310;Cafeteria Emperatriz;3.5;23;€€ - €€€;Mediterránea,Española
+1311;La Taberna Vinagorra;4.5;3; ;
+1312;Casares;5.0;2; ;Mediterránea
+1313;Restaurante Los Galgos;3.5;9; ;
+1314;El Pescaito de Nicolás;3.5;6; ;
+1315;Venta Espanita;3.5;29; ;
+1316;Bar Taperia La Adelfa;4.5;3; ;
+1317;La Pescaderia;3.5;13; ;
+1318;Sabor Sabor;4.0;4; ;
+1319;Alyra;5.0;2; ;
+1320;Pizzeria Roma;3.5;11; ;
+1321;Pizzeria Napolitana;3.5;18; ;Pizza,Italiana
+1322;Restaurante Chino El Jardin;4.0;6; ;
+1323;Caviar House & Prunier;3.5;17;€€€€;Marisco
+1324;Bar El Sauce;3.5;8; ;
+1325;Restaurante Caballo Andaluz;4.5;7; ;Internacional
+1326;El Tapeo Del Compas;3.5;12; ;
+1327;Teira's Tapas Restaurant;3.5;33;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+1328;KFC Málaga;3.0;55;€;Americana
+1329;El Pastelero Real;3.5;8; ;
+1330;Heladeria Valenciana;5.0;2; ;
+1331;La Burmet Pacífico;3.5;6;€€ - €€€;Americana,Española
+1332;El Caserio;4.0;7; ;Española
+1333;Ro y Ma;5.0;2; ;
+1334;Ultrella buen camino;5.0;2;€€ - €€€;Española
+1335;La Taperia;4.5;3; ;Española
+1336;Magdalenaga;4.0;6; ;Americana,Café
+1337;La Guarida Tapería;4.0;5; ;Española
+1338;Taxi-Angus Burger;4.5;2;€;Americana
+1339;la terraza del parque;4.5;2; ;Mediterránea
+1340;Asador Hamburgueseria Rosa;4.0;14;€;Pizza,Comida rápida,Asador
+1341;Taberna Larios;4.5;3;€€ - €€€;Bar,Mediterránea,Pub
+1342;El Descorche;4.0;5; ;Española
+1343;Chaira Tapas;4.0;5; ;Española
+1344;Sun Moon;4.0;9;€€ - €€€;China
+1345;Rosello Tapas Pizza;4.5;2; ;
+1346;La Esquinita del Tapeo;4.5;3;€;Española
+1347;Esparteros Café Bar;4.5;2; ;Española
+1348;El Buen Sazon;4.5;2; ;
+1349;La Surena Plaza Las Flores;3.5;16; ;
+1350;La Traviatta;3.5;7; ;
+1351;La Raya;4.5;2;€€ - €€€;Mediterránea
+1352;La Casita gastrobar;4.5;2; ;Bar,Café,Española,Pub
+1353;La Abaceria;3.5;8; ;Mediterránea
+1354;Freiduría Marisqueria R2;4.5;3; ;
+1355;Lazy Days Bar and Restaurant;5.0;3;€€ - €€€;Británica
+1356;Cafeteria Degustar;4.5;2; ;
+1357;Monkey House;4.0;3;€;Europea,Española
+1358;La Piccoleña;4.0;5;€€ - €€€;Italiana,Pizza
+1359;Cafetería Bar Goldy;3.5;8; ;
+1360;Bar Las Casillas;4.0;5; ;
+1361;El Diamante;4.5;2; ;Mediterránea
+1362;Bar Barenostrum;3.5;13; ;
+1363;Finca Cortesin Beach Club;3.5;19;€€€€;Mediterránea,Española
+1364;Muba Café;5.0;2; ;
+1365;El Balate;3.5;45; ;
+1366;Cafeteria-Hamburgueseria Limalimon;3.5;7; ;
+1367;Entre Amigos;5.0;2; ;Chilena,Sudamericana
+1368;Venta El Detalle;4.0;3; ;
+1369;Restaurante/Bar Lorenzo;4.0;3; ;
+1370;Restaurante Maryluz;4.5;3; ;
+1371;Chiringuito Tropicana;3.5;17; ;
+1372;Taperia-Bar Los Asturianos;4.5;2; ;
+1373;Cafe Bar El Jardin De Los Monos;3.5;6; ;
+1374;Baraka Restaurante;5.0;2; ;Internacional,Española
+1375;Victoria Lounge;4.0;5; ;
+1376;La Calle Burger Av. de las Américas;3.5;17;€€ - €€€;Americana
+1377;Cafetería El Yate;4.0;5; ;Café,Mediterránea,Española
+1378;Bar Pedroso;4.5;2; ;
+1379;Café De Dueñas;3.5;12; ;
+1380;el buen rollo;4.0;3; ;
+1381;El Escondite;5.0;2; ;Italiana,Café,Española
+1382;Meat Point;5.0;2; ;
+1383;Taberna Taurina El Tablón;5.0;2; ;Española
+1384;La Escalera Bar de Tapas y Churrería;4.5;2; ;
+1385;Tapería Maxitapas;3.0;57;€;Comida rápida,Mediterránea,Española
+1386;Taco Bell;3.0;61;€;Mexicana,Comida rápida
+1387;18 Noventa;4.5;2; ;
+1388;Yogurteria Danone - Málaga;3.5;5;€;Mediterránea
+1389;l'atelier;4.5;3; ;Contemporánea
+1390;El Buli;4.5;2; ;
+1391;El Rincon;4.0;5; ;
+1392;La Terrasse;5.0;2; ;
+1393;Meson Alqasaba;4.0;4;€€ - €€€;Española
+1394;Meson Jamon y Queso;4.0;5; ;
+1395;Kaluna Restaurant;3.5;17; ;
+1396;La Estación;4.5;2; ;
+1397;El Bosque;3.5;15; ;Café,Mediterránea,Española
+1398;Cafeteria La Taza;4.5;2; ;
+1399;Palocortado;3.5;19; ;Mediterránea,Española,Fusión
+1400;Asador Hermanos Bandera;4.5;2;€€ - €€€;Española
+1401;Cerveceria 100 Montaditos;3.5;49;€;Comida rápida,Española
+1402;Happy Fish;4.0;4; ;
+1403;Cafe-Bar Benidorm;4.5;2; ;
+1404;Panimas;4.0;4; ;
+1405;Cafe and Tapas;3.5;11;€€ - €€€;Mediterránea,Española
+1406;Aliatar;3.5;8; ;
+1407;Bar Aguilera;4.0;4;€€ - €€€;Café,Mediterránea,Española
+1408;La Pantera;3.5;8; ;
+1409;Restaurante Pepe Orso;4.5;2; ;Española
+1410;Taberna Alboran;4.5;3; ;
+1411;Berlin Bar;4.0;5; ;
+1412;Restaurantes Los Espigones;4.0;8; ;
+1413;La Calle Burger Plaza Mayor;3.5;7;€€ - €€€;Americana
+1414;Nube Doble;4.0;2; ;Café
+1415;Picatostes;4.5;2; ;
+1416;El fogón de Juan S.C;4.0;4; ;Comida rápida,Asador
+1417;Dama de Noche;5.0;2; ;
+1418;Oliva Malaga;3.5;12;€€ - €€€;Mediterránea
+1419;Mulligans Irish Bar;3.5;3; ;
+1420;Cafe Maugeri;4.5;2; ;
+1421;Con Arte;4.0;3; ;
+1422;La Colmena;3.5;29;€€ - €€€;Española
+1423;Librería Café Q PRO QUO;5.0;1; ;
+1424;disTINTO;5.0;1;€€ - €€€;Asador,Mediterránea,Española
+1425;Taberna Del Muelle;4.0;2; ;
+1426;A Morriña;5.0;1;€€ - €€€;Española
+1427;Mi Querencia;5.0;1; ;
+1428;La plaza;5.0;1; ;Bar,Pub
+1429;El Decano;3.5;3; ;
+1430;Gran Poder;5.0;1; ;Mediterránea,Española
+1431;Hamburgueseria Malaga Norte;3.5;8; ;
+1432;Rest. Antonio;5.0;1; ;Bar,Europea,Española,Pub
+1433;Maldonado 21;5.0;1; ;Española
+1434;cafe y tapas;3.5;12;€€ - €€€;Española
+1435;El Cañon Bar Frank Furt Cafetería;5.0;1; ;Mediterránea
+1436;Bar Pacheco;5.0;1;€;Española
+1437;Ejugre;5.0;1; ;
+1438;Little Italy;5.0;1; ;Italiana
+1439;Bar San Javier;4.5;7;€€ - €€€;Mediterránea
+1440;La Suerte;5.0;1; ;
+1441;Okandu;5.0;1; ;
+1442;Cafeteria Bar El Cid;5.0;1; ;Española
+1443;La Mirada;4.0;4; ;
+1444;Pura Gula;3.5;37;€€ - €€€;Pizza,Italiana,Comida rápida
+1445;Restaurante Taperia El Picoteo;4.0;2; ;
+1446;Kebab Andromeda;5.0;1;€;Comida rápida,Turca
+1447;La Terraza Oasis;4.0;2; ;
+1448;Restaurante Chino El Jardin;5.0;1; ;
+1449;Freiduria Los Yayos;5.0;1; ;Marisco,Mediterránea,Española
+1450;Taberna Gibralfaro;3.0;88;€€ - €€€;Española,Marisco,Mediterránea
+1451;The New Tostá;5.0;1;€€ - €€€;Española
+1452;Blue Centro;5.0;1;€;Café
+1453;Burger King Malagueta;3.0;26;€;Comida rápida
+1454;Rincon de las Arepas;5.0;1;€€ - €€€;Venezolana,Sudamericana
+1455;Foodies Café & Tapas Bar;4.0;2; ;
+1456;The Big Kebap;4.0;4;€€ - €€€;Pizza,Internacional,Turca,Opciones veganas
+1457;Pizzería burger Rio de la Plata;5.0;1;€;Comida rápida,Street food / Comida en la calle
+1458;Bar el Castillo;5.0;1; ;Española
+1459;Tomaquet;3.0;98;€;Mediterránea,Europea,Española
+1460;Bar Fidel;5.0;1; ;Española
+1461;Asador Pineda;5.0;1; ;
+1462;Aguamiel burgers & drinks;5.0;1;€;Americana
+1463;Molarepa;5.0;1; ;Sudamericana
+1464;Venta y chiringuito El Mijeño;3.5;6; ;
+1465;Bar La Toja;5.0;1; ;
+1466;Celtic DruiDs Irish Bar;3.5;86;€€ - €€€;Bar,Pub,Europea
+1467;Ristorante Pizzeria Malapizza;3.5;3;€;Italiana,Bar,Pub
+1468;Venta Cozar;4.5;2; ;Barbacoa
+1469;La Alhacena;4.0;5;€€€€;Española
+1470;Restaurante Chino La Casa Del Bambu;4.0;2;€€ - €€€;China
+1471;Los Ibericos del sur;3.0;42;€;Española
+1472;Restaurante Wok Jia;5.0;1; ;Asiática
+1473;Dallas El Romeral;3.0;14; ;
+1474;Ache;5.0;1; ;Española
+1475;Turkish Kebab;5.0;1;€;Turca
+1476;La Boqueria;5.0;2; ;Española
+1477;La Caprichosa Campanillas;3.5;42;€;Pizza
+1478;Cafetería Hamburguesería La Malagueña;3.5;3; ;Mediterránea
+1479;La Taberna Del Cura;3.0;63;€€ - €€€;Mediterránea,Española
+1480;100 Montaditos;3.0;38; ;
+1481;Francisco Carnero Maldonado;5.0;1; ;
+1482;Meson El Dique;4.0;12;€€ - €€€;Mediterránea,Española
+1483;Bar Casa Navarro;4.5;3; ;Española
+1484;Málaga Nostrum;4.5;6;€€ - €€€;Asador,Mediterránea,Española,Contemporánea,Comedor
+1485;Pizzeria Pepperoni;5.0;1; ;Pizza
+1486;Taberna de Bracamonte;5.0;2; ;Española
+1487;New York;4.0;2; ;
+1488;Los Monaguillos;5.0;1; ;Española
+1489;La Jamboteca;3.5;5; ;Española
+1490;Bodeguita El Rincón de Dani;3.5;6; ;
+1491;Carambuco;3.5;11; ;
+1492;Venta El Trillo;3.5;25;€€ - €€€;Mediterránea,Española
+1493;Regal'arte;4.0;3;€€ - €€€;Mediterránea,Española,Saludable
+1494;Chico's Cafe;5.0;2; ;Española
+1495;AliOli;5.0;1; ;
+1496;Bocañam;5.0;1; ;
+1497;Comejuega;5.0;5;€;Española
+1498;El Ventorrillo;4.0;3; ;Comedor
+1499;La Exquisita;4.5;2;€;Española
+1500;Vista Alegre;4.5;2; ;Pub
+1501;Sultan Teteria;4.0;2;€€ - €€€;Marroquí,Mediterránea
+1502;Buen Bocado;5.0;1;€;Comida rápida
+1503;Taberna oleum;4.0;10;€€ - €€€;Española
+1504;Bar Restaurante Los Manantiales;4.5;2; ;Española
+1505;Don Chiito;5.0;1; ;
+1506;Bar Virgen Del Rosario;5.0;1; ;
+1507;Gibralfaro Especialidad Pescaito;3.0;48;€€ - €€€;Mediterránea,Española
+1508;Ohana Poké & More;3.0;47;€€ - €€€;Hawaiana
+1509;Insieme;4.0;2; ;
+1510;De Norte A Sur;4.0;2;€;Española
+1511;Pof Café y Postres;5.0;1;€;Francesa,Holandesa,Café,Europea
+1512;Don Bose;3.5;34;€€ - €€€;Española,Pub restaurante
+1513;El Fogon De Lourdes;5.0;1; ;
+1514;La Tradicion De La Abuela;5.0;1; ;
+1515;O Mamma Mia;3.0;239;€€ - €€€;Italiana,Pizza,Mediterránea,Europea,Opciones vegetarianas
+1516;Campana El Cenachero;3.5;4; ;
+1517;La Baranda;5.0;1; ;
+1518;Casa Bigote;4.0;4; ;Marisco,Española
+1519;Bar Cafeteria Da Heng;3.0;12;€;China
+1520;Taperia Las Delicias;5.0;1; ;
+1521;Chopp Huelin;3.0;13;€;Española
+1522;Treinta&Tres RestoBar;4.0;66;€€ - €€€;Mediterránea,Española,Opciones vegetarianas
+1523;Cafe Bar Las Flores;3.0;14; ;
+1524;El Portico;5.0;1; ;
+1525;La Mordidita;5.0;1; ;Mexicana
+1526;Venta Carlos del Mirador;3.0;24; ;
+1527;Cervecería Granadina Tragabuche;5.0;1; ;
+1528;Cataa Malaga;4.0;3;€;Internacional
+1529;Bar Cafeteria Taperia Trivium;4.0;2; ;Española
+1530;Grambinus;3.5;8; ;
+1531;Hamburgueseria Pizzeria Alameda;5.0;1; ;
+1532;Kebabish King;5.0;1; ;
+1533;El Colmao;3.5;15;€€ - €€€;Mediterránea,Española
+1534;El Chispito;5.0;1; ;
+1535;Ciomijas;4.5;2; ;
+1536;Levante;5.0;1;€€ - €€€;Mediterránea
+1537;Harlem Food Drinks & Soul;3.5;61;€€ - €€€;Americana
+1538;YazAn Bar Lounge;3.5;3; ;Marroquí,Mediterránea
+1539;Ecotienda y Bar la Caracola;5.0;1; ;Española,Opciones veganas
+1540;La Reserva 10;3.5;10; ;
+1541;El Sabor de Casa;5.0;1; ;Mediterránea
+1542;Bar La esquinita de Emilio;5.0;4; ;Bar
+1543;Venus Cafe/Bar;3.5;5; ;
+1544;Raff Tapas & Bar Teatinos;3.0;415;€;Americana,Española
+1545;Picali;3.0;17; ;
+1546;Victoria;4.0;2; ;Española
+1547;Bar Salamanca;4.5;5;€;Española
+1548;Restaurante Meson De Sancho;3.5;3; ;Mediterránea
+1549;Red Chilli's;4.5;2; ;India
+1550;Central Malagueta;4.0;1; ;
+1551;Calderon de la Barca;4.0;1; ;
+1552;Taberna del Volapié Vialia;3.0;18;€€ - €€€;Bar,Mediterránea,Europea,Española,Tienda gourmet,Pub
+1553;The Brasserie;3.5;6;€;Francesa,Contemporánea
+1554;Pasteleria Jose Galvez;3.5;6; ;
+1555;Pastela Tejeringos;4.0;1;€;Española
+1556;Yornos;4.0;1; ;Americana,Bar,Comida rápida,Mediterránea,Española,Pub
+1557;Los Juanes Pescaito y Marisco;5.0;1; ;Mediterránea
+1558;Bar Saylo;4.0;1; ;Española
+1559;Restaurante Chino Playa II;3.5;4; ;
+1560;La Cancela Campera;3.5;8; ;
+1561;La Caprichosa Teatinos;3.0;40;€;Italiana,Pizza,Española,Saludable
+1562;El Rincon De Las Delicias;3.5;24; ;
+1563;La Ola De Melillero Boom Beer;4.0;1; ;Española
+1564;Pulpito Feliz;4.0;1; ;Marisco,Mediterránea,Española
+1565;La Bolsa 7 S.l.diaz;4.0;2; ;
+1566;Orient Express Cafe;3.0;63;€;Café
+1567;Kebab Hits;4.0;1;€;Turca
+1568;Don Pedro;5.0;1; ;Marisco
+1569;Ocean’s;3.5;3; ;Mediterránea
+1570;Mandhelo Café;4.0;1;€;Mediterránea
+1571;La Barra;4.0;1; ;
+1572;Foster's Hollywood;3.0;101;€€ - €€€;Americana,Barbacoa
+1573;Venecia Restaurante;3.5;2; ;
+1574;Restaurante El Jardin Chino;3.5;2; ;China,Minoria china
+1575;Asador Monsalvez;4.0;1;€;Asador,Pizza,Barbacoa,Argentina,Sudamericana
+1576;Per Tutti;3.5;4; ;Italiana
+1577;O Mamma Mia;3.5;4; ;
+1578;Tito El Egipcio;3.5;7; ;
+1579;Rincón de oliva;5.0;4;€;Bar,Mediterránea,Española,Pub
+1580;Mas Q menos;3.0;5; ;Café,Comida rápida,Mediterránea,Española
+1581;Mediterraneo Huelin;5.0;1; ;Mediterránea
+1582;El Chiquito;3.5;5; ;
+1583;Patrick Chifflier;5.0;1; ;
+1584;Meson Rincon De Castillo;4.0;1; ;
+1585;Sabor A Málaga S. L.;3.5;2; ;
+1586;La Taberna del Cura;3.0;33;€€ - €€€;Mediterránea,Española
+1587;Pizzeria Hércules Teatinos;3.0;12; ;
+1588;La Fuente;3.5;55;€€ - €€€;Italiana,Mediterránea,Europea,Opciones vegetarianas
+1589;Tuk Tuk Noodles;3.0;6; ;
+1590;La Biznaga;3.5;3; ;Bar,Pub
+1591;Mesón Tomillo y Romero;4.0;1; ;
+1592;Bar-Restaurante Alba;3.5;5; ;Española
+1593;Karim Boukili;4.0;1; ;
+1594;Bolonia Restaurante;3.5;3; ;Española
+1595;Bar Pepe;5.0;1; ;Española
+1596;Mi Terraza;3.5;2; ;Contemporánea
+1597;Restaurante Coco;3.5;2; ;Contemporánea
+1598;Rincon De Los Cazadores;4.0;1; ;
+1599;La Cristalera;4.0;1; ;Pub
+1600;Los Tres Robles;3.5;7; ;
+1601;Restaurante Laurel;4.0;1; ;
+1602;Casa Rafael;3.5;4; ;Española
+1603;Pomodoro Huelin;3.0;7;€;Italiana,Pizza
+1604;Cervecería Sebastián;3.5;3; ;
+1605;Vadepizza Malaga;3.0;15; ;
+1606;O Mamma Mia;3.5;4; ;
+1607;Restaurante Pascual;4.0;1; ;
+1608;Turquesa by Isabella Restaurant;4.0;46;€€ - €€€;Mediterránea,Europea,Española,Saludable,Opciones sin gluten,Opciones vegetarianas
+1609;Frida Restaurante;4.0;1; ;Mediterránea,Fusión,Saludable,Opciones veganas
+1610;EL Miajon;3.5;2; ;
+1611;El Andamio;4.0;1; ;Española
+1612;Hanna Fubuki;4.5;5;€;Japonesa,Fusión
+1613;El Patio de la Alcazaba;3.0;9;€€ - €€€;Española
+1614;Restaurante Freiduria Fraguas;4.0;1; ;
+1615;La Espanola Tapas;3.0;6;€€ - €€€;Española
+1616;Meson la Piedra;3.0;118;€€ - €€€;Española
+1617;Sarmiento;3.0;4; ;
+1618;bar restaurante;4.0;1; ;Española
+1619;La lonja Tapas;5.0;4; ;
+1620;Sacaba Mar;3.0;70;€€ - €€€;Mediterránea
+1621;Obioba;3.0;9;€€ - €€€;Mediterránea,Española,Fusión
+1622;Xpress;3.0;5; ;Café
+1623;Remedios Montanez Garcia;4.0;1; ;
+1624;El Fogon Iberico;3.0;7; ;Española
+1625;El Bodegón de Rafi;3.0;12; ;
+1626;Silk To Eat and Meet;3.5;5; ;Mediterránea
+1627;La Croqueteria Gourmet;3.0;6; ;Española
+1628;Capricho Malagueño;4.0;6;€€ - €€€;Española
+1629;Havaco Cafe;3.0;41;€€ - €€€;Café,Española
+1630;La Vidriera;3.0;5;€€ - €€€;Española,Pub
+1631;Bar La Esquinita;3.0;9; ;Española
+1632;Real Istanbul;3.0;8;€€ - €€€;Turca
+1633;El Rincon del Tapeo;3.0;3; ;Española
+1634;Los Labraos;4.0;3; ;Española
+1635;Vips Vialia;3.0;88;€€ - €€€;Comida rápida,Opciones vegetarianas,Opciones veganas,Opciones sin gluten
+1636;Restaurante Ciudad Nanhai;3.0;3; ;
+1637;Manolito;3.0;6; ;
+1638;Vinums;3.0;46;€;Bar,Española
+1639;Bakalito;3.0;16;€;Española
+1640;El Conde Tapas;3.0;26;€;Mediterránea,Europea,Española
+1641;Gambrinus Puerto Banus;3.0;26;€€ - €€€;Mediterránea
+1642;El Capricho Huelin;3.0;9; ;
+1643;Taperia El Tejar;3.0;6; ;
+1644;Restaurante Venta el Pollo;3.0;9; ;
+1645;Pedro Gutierrez;3.0;15;€€ - €€€;Española
+1646;La Taperia del Puerto;3.0;4; ;Española
+1647;Capo Bonifati;4.0;6; ;
+1648;La Carpa;3.0;3; ;
+1649;Viento 13;3.0;4;€€ - €€€;Española
+1650;El V Pekado;3.0;2; ;Española
+1651;American Diner;3.0;3; ;Americana
+1652;la Esencia;3.0;3; ;Española
+1653;Come Sano Come Rico;3.0;1; ;Española
+1654;La Jara;3.0;1; ;
+1655;20 Paka;3.0;1; ;
+1656;Telepizza;3.0;1; ;Italiana
+1657;Taberna Rosae;3.0;2;€€ - €€€;Española
+1658;Sushi Casa Fusion;3.0;1;€€ - €€€;Japonesa
+1659;La Parrilla Del Chef;3.0;1; ;
+1660;Teteria al andalus;3.0;1; ;
+1661;Hamburgueseria Garby;3.0;1; ;
+1662;Tapería Mi Manuel;3.0;2; ;Española
+1663;Hamburgueseria Corazon;3.0;1; ;Pizza
+1664;Bar El Tapeito;3.0;1; ;
+1665;Delicias de Riki;3.0;1; ;Española
+1666;Ornito;3.0;3; ;
+1667;Tomikaya Tapas;3.0;4; ;Española
+1668;30 y Tantos;3.0;14; ;Española
+1669;VIPS Fuengirola;3.0;5;€€ - €€€;Internacional,Mediterránea
+1670;TGB;3.0;3;€€ - €€€;Americana
+1671;La Bodeguita de Marco;3.0;4; ;Marisco,Mediterránea
+1672;Suki Cereal Bar;3.0;2;€;Americana,Española
+1673;Autentica Pizza Italiana;3.0;13;€;Italiana
+1674;Taperia Bukaros;3.0;57;€;Española
+1675;Cerveceria La Surena;3.0;39;€;Española
+1676;Restaurante Chino Ciudad de Oro;3.0;6; ;
+1677;El Pincho Andaluz;3.0;7; ;
+1678;Meson las Cofradias;3.0;7; ;Española
+1679;La Paradita;3.0;2; ;
+1680;Restaurante El Fogon de la Vega;3.0;4; ;
+1681;Merendero Ines;3.0;5;€€ - €€€;Española
+1682;Gorki Seleccion Puerto de Malaga;3.0;294;€€ - €€€;Mediterránea,Europea,Española,Opciones vegetarianas
+1683;Azahar Tapas;3.0;151;€€ - €€€;Bar,Mediterránea,Española
+1684;Pedrega;3.0;15; ;
+1685;Sheriff Playa;3.0;93;€;Mediterránea,Marisco
+1686;Hamburgueseria Pizzeria Puffy;3.0;6; ;Pizza
+1687;Restaurante 21 Bou;3.0;197;€€ - €€€;Mediterránea,Europea,Española
+1688;McDonald's;3.0;11; ;
+1689;Restaurante El Columpio;3.0;15;€€ - €€€;Opciones vegetarianas,Opciones sin gluten
+1690;China King;3.0;72;€;China,Asiática
+1691;El Manantial;3.0;16; ;
+1692;La Terraza de la Aduana;3.0;34; ;
+1693;La Piazzetta;3.0;109;€€ - €€€;Italiana,Pizza,Europea,Opciones vegetarianas,Opciones sin gluten
+1694;Restaurante Casa Antonio Teatinos;4.0;76;€€ - €€€;Española,Tienda gourmet,Comedor,Saludable,Opciones vegetarianas,Opciones sin gluten
+1695;Venta Las Pitas;3.0;75; ;Española,Griega
+1696;Merendero Gines;3.0;28; ;
+1697;Restaurante Japones Fujiyama;3.0;39;€;China,Japonesa,Sushi
+1698;Taperia Abreboca;3.0;26; ;
+1699;Bronx Steak & Burgers;3.0;10;€;Internacional,Mediterránea,Española
+1700;Las palmeras.;3.0;118;€€ - €€€;Marisco,Mediterránea,Española,Europea
+1701;El Olivo;4.5;3;€€ - €€€;Asador,Mediterránea,Barbacoa,Pub,Fusión
+1702;Carrasco Restaurante;3.0;23; ;Española
+1703;El Carmen Tapas;3.0;92;€€ - €€€;Bar,Mediterránea,Europea,Española,Pub
+1704;El Jardin;3.0;380;€€ - €€€;Mediterránea,Europea,Española
+1705;West Pizza;3.5;21; ;
+1706;Kivi;3.0;4; ;
+1707;El Rincón De Pepe;4.5;3;€€ - €€€;Café,Española,Comedor
+1708;The Monkeys Malaga;4.0;63; ;
+1709;Churreria Cafeteria La Tradicion;3.5;6; ;
+1710;La Guarida;3.0;6; ;
+1711;Harlem Bar Copas;4.0;14; ;Americana,Internacional,Hawaiana
+1712;Ginos Málaga-Nostrum;3.0;61;€€ - €€€;Mediterránea,Italiana,Pizza
+1713;Marisquería Godoy;3.0;307;€€ - €€€;Marisco,Mediterránea,Europea,Española
+1714;Quitapenaspuerto;2.5;3; ;
+1715;La Bahia De Huelin;3.0;7; ;
+1716;Lechuwarma;2.5;2; ;
+1717;Pizza Burguer La Terraza;2.5;3; ;
+1718;Restaurant Mijas;3.0;7; ;
+1719;Restaurante Colombiano Riquiisimo;2.5;2; ;
+1720;malaga, ristorante, Chirihguito escribano;2.5;7; ;Italiana
+1721;Bamboo;3.0;8; ;
+1722;Natural Blend;2.5;4; ;Española
+1723;La Loca Juana;3.0;4; ;Mediterránea
+1724;The Good Burger;3.0;17;€;Americana
+1725;El Pellizco Taberna Flamenca;3.0;3; ;Mediterránea
+1726;Parador19;5.0;5;€€ - €€€;Bar,Comida rápida,Saludable,Pub restaurante
+1727;Mil Sabores;2.5;2; ;
+1728;La Chesseria;2.0;1; ;
+1729;Aqua;3.0;5; ;
+1730;Terraza Miramar Chill Out;2.0;1; ;
+1731;Pizza Hut;2.5;2; ;Pizza
+1732;Chiringuito La Campana Playa;3.0;115;€€ - €€€;Marisco,Mediterránea
+1733;Atlantis Lounge Cafe;3.0;64;€€ - €€€;Café
+1734;La Plaza Gastrobar;2.5;7; ;
+1735;The Grill Club;3.0;14; ;Asador
+1736;Chino Fenix;2.5;11; ;
+1737;Hostal Mesón La Era;2.5;3; ;
+1738;SAVIS On Tap;5.0;7;€;Pub con cerveza artesanal,Pub,Americana,Bar,Café
+1739;Restaurante Trinidad Grund;3.0;5; ;
+1740;Gastroteca;2.0;1;€€€€;Mediterránea
+1741;100 Montaditos;2.0;1; ;Española
+1742;La Malagueta Beach Bar;2.0;1; ;
+1743;Rosario's Burgers Restaurant;3.0;41; ;
+1744;Bula Noodles y Tapas;1.0;1; ;Internacional,Española,Asiática
+1745;Chringuito Escribano;3.0;54;€€ - €€€;Mediterránea,Española
+1746;Bar Perol Andaluz;5.0;2; ;Café,Marisco,Barbacoa,Española
+1747;Port Royal;3.0;11; ;
+1748;Restaurante Casa Tuti;4.5;3;€€ - €€€;Asador,Mediterránea,Española
+1749;El Cartuchito de Antonio Caro;3.0;14;€;Española
+1750;Churreria El Fary Cafeteria;5.0;2;€;Española
+1751;Gambrinus Moliere;3.0;16; ;
+1752;Venta los Montes;3.0;16; ;Española
+1753;Yao Zu Bei;1.0;1; ;
+1754;SALCHIPAPA;4.5;5;€;Española
+1755;Uno Mas Cafe;5.0;2;€€ - €€€;Italiana,Internacional,Española
+1756;Le Petit Bistro;1.0;1; ;Francesa
+1757;Burger King;3.0;12; ;
+1758;El Marisquero;3.0;133;€€ - €€€;Marisco,Mediterránea,Española
+1759;Thai Noodles Wok;4.5;6;€€ - €€€;Asiática
+1760;El Duplex;1.0;1; ;Mediterránea,Española,Tienda gourmet,Fusión,Pub restaurante
+1761;Breakfast at Tiffany's;2.5;14;€;Española
+1762;Foster's Hollywood;2.5;3; ;
+1763;La Marquesa;2.5;4; ;
+1764;Gambrinus Gastro-Cervecería;3.0;40;€€ - €€€;Española,Mediterránea
+1765;Chiringuito Playa Malaya;3.0;74;€;Mediterránea,Española,Europea,Opciones vegetarianas
+1766;La Jarrita;2.5;36;€;Española
+1767;Tragatapas;3.0;389;€;Bar,Mediterránea,Española
+1768;Tita Carmen Restaurante;2.5;10; ;
+1769;McDonald's;3.0;31; ;
+1770;Francisco Jose Romero Zambrana;1.0;1; ;
+1771;Aragon & Capel;3.5;26;€€ - €€€;Pub,Pub restaurante
+1772;Gastrobar Eshmún;2.5;4; ;
+1773;Cafetria Don Premio;2.5;3; ;Española
+1774;El Patio de Mi Casa;1.0;1; ;
+1775;Nong Chen;1.0;1; ;
+1776;The Natural Juice Co.;5.0;4;€;Saludable,Bar,Café,Pub
+1777;Cuates Burger & Taco Bar;2.5;6;€;Mexicana
+1778;Marisquería El Perchel;3.5;13;€€ - €€€;Marisco
+1779;Neremar Cafeteria;2.5;13; ;
+1780;Al Brasileno;2.5;6; ;Brasileña,Sudamericana
+1781;Ou Bin City;2.5;29;€;China
+1782;El Fogón de Marisa;3.0;7;€€ - €€€;Española
+1783;El Capricho;3.0;14; ;
+1784;Al Andalus;3.0;21; ;
+1785;Don Papón;2.5;6; ;Europea
+1786;Meson gribralfaro;2.5;5; ;Española
+1787;Restaurante Chino Happy Palace;3.0;25;€;China,Asiática
+1788;Calle Alfonso Ponce de León, 3;1.0;1; ;
+1789;Paraguay Sabores De Mi Tierra;2.5;7; ;
+1790;VIPS Malaga-Nostrum;3.0;59;€€ - €€€;Internacional
+1791;La Tagliatella;3.0;311;€€ - €€€;Italiana,Opciones vegetarianas,Opciones veganas
+1792;Venta La Nueva;2.0;5; ;Española
+1793;Sushimore;1.0;1;€€ - €€€;Japonesa,Sushi
+1794;Parrilla Argentina a Domicilio;1.0;1;€;Barbacoa
+1795;Mesón Segalerva;2.5;28;€;Española
+1796;Cafe Bar El 13;4.0;17;€€ - €€€;Internacional,Mediterránea,Española,Argentina
+1797;Cerveceria Gambrinus;1.0;1; ;
+1798;Venta Las Maravillas;1.5;2; ;Española
+1799;Mesón Cortijo Cristóbal;1.0;1; ;
+1800;Taberna del Tapeo;2.5;39;€;Bar,Comida rápida,Pub restaurante,Street food / Comida en la calle
+1801;Restaurante la Recta;2.5;7; ;
+1802;La Gran Corona;2.5;5; ;
+1803;Chiringuito Los Compadres;1.0;1; ;
+1804;Burger King;2.5;9; ;
+1805;Pizzería Rigoletto;2.5;35; ;Italiana,Pizza
+1806;La Terraza Lob;1.0;1;€€ - €€€;Bar,Café,Pub
+1807;Cafe Rouge 2;5.0;1; ;
+1808;Donde Paqui;2.0;3; ;
+1809;La Barraka;2.5;15;€;Española
+1810;Origen Málaga;3.0;5;€€ - €€€;Mediterránea,Española
+1811;Chiringuito Gines;2.5;15;€;Mediterránea
+1812;La Lola;2.5;4; ;Española
+1813;La Barraca;2.5;5; ;
+1814;Restaurante Camposol;2.0;3; ;Española
+1815;Hombre Lobo Grill;2.5;190;€;Americana
+1816;Bar los Pérez;4.0;2;€€ - €€€;Internacional
+1817;Domino's Pizza;2.5;55;€;Pizza
+1818;El Urogallo;2.5;60;€;Española,Mediterránea
+1819;Pepa y Pepe;3.0;1494;€;Mediterránea,Española
+1820;El Lolita;4.0;1; ;
+1821;Chiringuito La Chalana;2.5;11; ;
+1822;La Taperia;2.5;98;€;Bar,Europea,Española,Mediterránea,Pub
+1823;El Cenachero;2.0;8; ;Mediterránea,Europea,Española
+1824;El Tapy Delicias;1.5;2; ;
+1825;Pepa y Pepe II;2.5;151;€;Bar,Mediterránea,Española,Europea
+1826;El Hormiguero Tapas;2.5;29; ;
+1827;Pizzeria Luis;4.5;6; ;
+1828;El Trepaolla;2.5;319; ;
+1829;Mandrilo;2.5;14; ;
+1830;Chopp;2.5;4; ;
+1831;cafeteria la tarasca;4.0;1; ;Española
+1832;La Calle Burger Gamarra;2.5;12;€€ - €€€;Americana
+1833;Capital Bar Cocktails;4.0;4;€€ - €€€;Contemporánea
+1834;Restaurante Buxarra;2.0;9; ;
+1835;Freiduria Bar Nevado;2.5;10; ;
+1836;Mcdonald's;2.0;7;€;Americana
+1837;Pizzeria Mayte III;2.5;19; ;Pizza
+1838;Tapamania;2.0;4; ;Bar,Pub
+1839;The house burger;3.0;4;€€ - €€€;Caribeña,Bahamesa
+1840;El Mercader;1.0;2; ;Italiana,Española
+1841;Lizarran;2.5;18; ;Española
+1842;Bar Carlos;1.0;2;€;Mediterránea,Comedor
+1843;D'Cuadros;2.0;8; ;Internacional
+1844;Peke Burguer;3.5;4;€;Española
+1845;Pizzería Cleopatra;2.0;16; ;Italiana
+1846;Mc Donald's;2.5;70;€;Café,Americana
+1848;Gambrinus;1.5;5; ;Pub con cerveza artesanal
+1849;Restaurante Dali;3.0;38;€€ - €€€;Mediterránea
+1850;Tapitas Bar;2.5;36; ;
+1851;Cafeteria Freiduria Los Compis;3.0;11;€;Mediterránea,Española
+1852;Sala VIP Lounge;2.5;116; ;
+1853;Taberna del Volapié Avenida de las Américas;2.0;17; ;
+1855;Cafeteria Vanessa;3.5;3; ;
+1856;Tapería Nueva Alegría;2.0;1;€;Bar,Mediterránea,Española,Pub
+1857;Cerveceria Granadina Tragabuches;1.0;4; ;
+1858;Bar Restaurante El Cenacho;2.5;33; ;
+1859;Jamones Jumago;2.5;2;€;Mediterránea
+1860;Restaurante Cortijo Santa Isabel;2.0;7; ;
+1861;Osteria Bocca della Verita;3.0;2;€;Italiana,Española,Vinoteca
+1862;Foster's Hollywood;2.5;120;€€ - €€€;Americana,Barbacoa
+1863;Cerveceria Gambrinus Rosaleda;1.0;4; ;Española,Pub
+1864;Cafeteria Tapas el Secreto;3.5;21;€€ - €€€;Española,Opciones vegetarianas
+1865;Lizarran;2.0;29; ;
+1866;Cubo Tapa;4.5;2; ;Mediterránea
+1867;Malacca Pacific Bar;2.0;16;€€ - €€€;Española
+1868;La Abuela Maruchi;2.0;16; ;
+1870;El Tapy;2.5;347;€;Mediterránea,Española
+1871;Malaga Ayer y Hoy;2.0;22;€€ - €€€;Española
+1872;Sabor a Mar;2.0;12; ;
+1873;El Club de los Amigos;2.5;3; ;Pizza,Barbacoa,Argentina,Sudamericana
+1874;Mustang;2.0;47; ;
+1875;Futbol 5 - Malaga;4.0;1;€;Pub con cerveza artesanal,Pizza,Café,Barbacoa,Pub
+1876;Venta El Boticario;2.0;16; ;Española
+1877;Venta Jose Carlos;2.0;19; ;
+1878;Pizzería la chimenea;2.0;14; ;
+1879;Sushirías;5.0;4; ;
+1880;Restaurante Pontegordo;2.0;37; ;
+1881;Gambrinus Gastro - Cervecería;2.0;17; ;
+1882;Restaurante Bar Primavera II;2.5;5;€;Bar,Café,Española,Comedor
+1883;O`Leary`s Restaurant;2.0;201;€€ - €€€;Americana
+1884;Dani Garcia DeliBar;2.0;152;€€ - €€€;Española,Tienda gourmet
+1885;Varadero el palo;4.0;15; ;Asador
+1886;Venta Solera;2.0;1; ;Española
+1887;El Bosque de AGO;1.5;9;€€ - €€€;Americana,Mediterránea
+1888;Club Hipico Restaurant;1.0;7; ;
+1889;Marisquería El Boqueroncito;2.0;29;€;Mediterránea
+1890;Cister Catorce;1.5;26;€€ - €€€;Mediterránea,Española
+1891;Caffè Ritazza;1.5;12; ;
+1892;La Tertulia - Cister Catorce;2.0;296;€€ - €€€;Mediterránea,Española
+1893;D'cuadros Deluxe Malaga;2.0;167;€€ - €€€;Bar,Europea,Española
+1894;Burger King;1.5;42;€;Americana,Comida rápida
+1895;Pizza Hut;1.5;31; ;
+1896;Montesol;1.0;14;€€ - €€€;Mediterránea
+1897;Aduana Vieja;1.5;88;€€ - €€€;Café
+1898;Four Arrows;1.5;89;€€ - €€€;Bar,Comida rápida,Pub
+1899;Delicias Del Mar;1.5;50;€€ - €€€;Española
+;TE Piko;4.0;1; ;
+;McDonald's;2.0;1; ;
+;McDonald's;4.0;1; ;
+;Pizzeria milano;5.0;1;€€ - €€€;Pizza
+1847;Pulperia Merced;0.0;0; ;Española
+1854;La Prensa Cafe & Pizzas;0.0;0;€€ - €€€;Italiana,Pizza,Café
+1869;Kebab Hits;0.0;0;€;Comida rápida,Turca,Árabe,Libanesa,Internacional,Mediterránea
+;Food & Grill Bar;0.0;0;€€ - €€€;Americana,Española,Venezolana,Sudamericana
+;FurgoChef;0.0;0; ;Comida rápida,Contemporánea,Street food / Comida en la calle
+;Maria Luisa Cortes Jimenez;0.0;0; ;
+;Er Patxi SL.;0.0;0; ;
+;Dos Lunas;0.0;0; ;
+;Restaurant 'Gerrado';0.0;0; ;Española
+;Fechoria de Paladar;0.0;0; ;Italiana,Española
+;Enara;0.0;0; ;Española
+;Azzurro;0.0;0; ;Italiana
+;La Romana;0.0;0; ;Italiana
+;Restaurante Estrella del Mar;0.0;0;€€ - €€€;Mediterránea,Saludable
+;Farina;0.0;0;€€ - €€€;Italiana
+;Senso Nikkei Fusion;0.0;0;€;Japonesa,Peruana,Sushi,Tailandesa,Sudamericana,Ecuatoriana
+;Kiosco De Levante;0.0;0; ;Española
+;La Cazuela Tapas&Copas;0.0;0;€;Española
+;Cafeteria;0.0;0; ;Comida rápida
+;Burguer 29014;0.0;0; ;
+;Cortijo San Joaquin;0.0;0; ;
+;Cafe Bar Gloria;0.0;0; ;Española
+;Las Marismas;0.0;0; ;Europea,Española,Eslovena
+;Bahia Cocktails & Tapas;0.0;0; ;Española
+;Mediterraneo Chicken;0.0;0;€;Francesa,Mediterránea,Fusión,Sudamericana,Centroamericana
+;Vinaliti;0.0;0; ;
+;La Fonda del Sol;0.0;0;€;Americana,Española,De Asia central
+;Bask3Tbar;0.0;0;€€ - €€€;Americana,Española
+;K10;0.0;0; ;
+;Mary Mar;0.0;0; ;
+;Bar Jose Carlos;0.0;0; ;Española
+;Hamburgueseria Munich;0.0;0; ;Comida rápida
+;El Corral Wings;0.0;0; ;Americana
+;Lemoon;0.0;0; ;
+;Café bar Chevrolet;0.0;0;€;Bar,Pub
+;Restaurante Campo Sol;0.0;0; ;Española
+;¿Disfrutas con la comida? El Bodegón Malagueño;0.0;0; ;
+;Restaurante El BUEN COMER;0.0;0; ;
+;Tierra y Mar;0.0;0; ;Española
+;Heladería Saborea;0.0;0; ;
+;Stadium Grill & Sport;0.0;0;€€ - €€€;Asador,Café,Barbacoa,Comedor
+;Ciro;0.0;0; ;Italiana
+;La Calita de Martín;0.0;0; ;Española
+;Kache Café;0.0;0;€;Mediterránea,Española
+;lacopla;0.0;0; ;Mediterránea
+;Rosana Bar Sabor Brasil;0.0;0;€;Comida rápida
+;Bodega Alboran;0.0;0; ;
+;OFF organic food factory;0.0;0;€;Comida rápida,Europea,Española,Street food / Comida en la calle,Centroeuropea
+;Insitu Coffee & Cocktail;0.0;0;€;Española
+;Casa Aztek Taqueria;0.0;0; ;Mexicana
+;Play City;0.0;0;€;Americana,Internacional,Mediterránea
+;Havana Blues;0.0;0; ;Caribeña,Cubana
+;Restaurante Mesón El Almirez;0.0;0; ;Española
+;Perfectopicnics;0.0;0;€€€€;Cajún y criolla,Mediterránea,Barbacoa,Europea,Centroeuropea,Opciones sin gluten
+;Sensui;0.0;0;€€ - €€€;Europea,Asiática,Asador,Contemporánea,Centroeuropea
+;Muffins;0.0;0; ;Marisco,Británica
+;Marisqueria Freiduria El Temporal;0.0;0;€€ - €€€;Marisco
+;Hostal Pedro;0.0;0; ;
+;Vinoteca La Bahia;0.0;0; ;Española
+;La Cigalita;0.0;0; ;
+;TaanRico;0.0;0; ;
+;Te invito a un picnic;0.0;0;€€ - €€€;Internacional,Española
+;Picasso restaurante;0.0;0;€€€€;Mediterránea
+;NewGame Bar;0.0;0;€;Española
+;Zampacome;0.0;0; ;
+;El Kumbawa;0.0;0; ;
+;Leche y Miel Cafetería Alameda;0.0;0;€;Bar,Café,Pub
+;Bar Cafetería Ramos;0.0;0;€;Bar,Café,Mediterránea,Española,Pub,Saludable
+;BAC Restaurante Sport Café;0.0;0; ;Mediterránea
+;Terrenza bar;0.0;0; ;Española
+;Inshallah;0.0;0;€€ - €€€;Marroquí,Mediterránea,Asiática,Griega
+;El Rey del Frito;0.0;0;€;Italiana,Americana,Comida rápida,Internacional,Española
+;Maria Pilar Guerrero Munoz;0.0;0; ;Mediterránea,Española
+;Maria Isabel Melendez Ortiz;0.0;0; ;
+;Maria del Carmen Ramirez Fernandez;0.0;0; ;
+;L'Antico Mulino;0.0;0;€;Española
+;Mary Pepa;0.0;0;€;Española
+;Casa Figuerola;0.0;0; ;Española
+;El Chanquete;0.0;0;€€ - €€€;Española
+;The Local;0.0;0; ;Café
+;El Capricho;0.0;0; ;
+;Cafeteria Jamai;0.0;0;€;Española
+;Cayenzo Arte & Picoteo;0.0;0; ;Italiana,Marisco,Europea,Española,Fusión
+;Juan antonio;0.0;0; ;Pub con cerveza artesanal,Pub
+;Los dulces de Katya;0.0;0; ;
+;Café Bar Martos;0.0;0;€€€€;Española
+;Le Due Torri;0.0;0; ;Italiana
+;El Gran Tapeo;0.0;0; ;
+;Bar La Tasca;0.0;0; ;
+;Restaurante Sofia;0.0;0; ;
+;La plasa tapas;0.0;0; ;Española,Comedor
+;Bombareli;0.0;0; ;
+;Italian pizza;0.0;0; ;Italiana
+;Boss;0.0;0;€€ - €€€;Mexicana,Americana,Británica
+;La Esquinita;0.0;0; ;
+;Nasuk Beach Club;0.0;0; ;Española,Asiática,Fusión
+;A la Turca;0.0;0;€;Pizza,Turca
+;El Circulo Echevarria;0.0;0; ;Española
+;Cafe & Tapas La Plaza;0.0;0; ;Española
+;Chester & Punk;0.0;0;€€ - €€€;Española
+;Natural & Mente Playa;0.0;0; ;
+;Dani's Café -Pizzas y Snack bar;0.0;0;€€ - €€€;Brasileña,Pizza,Café,Comida rápida,Europea,Portuguesa,Sudamericana
+;Fussion Perchel;0.0;0; ;
+;Asador El Cenit;0.0;0;€;Italiana,Asador,Saludable
+;Iggy's Food;0.0;0;€€ - €€€;Italiana,Mexicana,Japonesa,Americana
+;Pizzeria da Toto;0.0;0; ;
+;Pizzeria Antica Trattoria Toscana;0.0;0; ;Italiana
+;Crissant;0.0;0; ;Europea,Española
+;¿Donde Cocinamos Hoy?;0.0;0;€€ - €€€;Española
+;El Pollo Asado;0.0;0;€;Asador,Comida rápida
+;Plaza Take Away;0.0;0;€;Comida rápida
+;Vegueta Bar;0.0;0; ;Mediterránea
+;The Imperial Cafe;0.0;0; ;Española
+;Restaurante Nicolas;0.0;0; ;Española
+;La Calle Burger;0.0;0; ;Española
+;Eleante Restaurante;0.0;0; ;Europea
+;Wicked Cow Creamery;0.0;0; ;
+;La Palamo;0.0;0; ;Española
+;Apetito;0.0;0; ;Francesa
+;Bar Jamoneria Los Hermanos;0.0;0;€€ - €€€;Europea,Española
+;Tu Cocinero;0.0;0; ;
+;EL Ancla Nerja Burrina;0.0;0; ;Bar,Pub
+;LaSede;0.0;0;€€€€;Europea,Española
+;Softfood Restaurante Cafetería;0.0;0; ;
+;Eu Tapas Y Punto;0.0;0; ;Española
+;Taperia Tiwi;0.0;0; ;
+;Heladería Artesol;0.0;0;€;Italiana
+;Il Tricolore;0.0;0; ;Italiana,Española
+;Los Macarons;0.0;0; ;
+;Arepería Happy Corn;0.0;0;€;Latina,Española,Fusión,Street food / Comida en la calle,Venezolana,Colombiana
+;Paco Torres;0.0;0; ;Española
+;Tapas+;0.0;0; ;Española
+;ELCR9;0.0;0;€;Mexicana,Americana,Española,Turca
+;Burle SL.;0.0;0; ;
+;Alassane Barro;0.0;0; ;
+;La Jabega Malaguena;0.0;0; ;Mediterránea
+;Guochao Xu;0.0;0; ;
+;Francisco Tejero Garcia;0.0;0; ;
+;La Sopera;0.0;0; ;
+;los Datiles;0.0;0; ;
+;los Casinis;0.0;0; ;
+;Rubio;0.0;0; ;
+;El Comedor;0.0;0;€€ - €€€;Internacional,Mediterránea,Española,Fusión,Saludable
+;Icaro Gastrobar;0.0;0; ;
+;Bar Sabor A Monte;0.0;0;€€ - €€€;Española
+;Indian Internacional Restaurant El perchel;0.0;0; ;Italiana,De Oriente Medio
+;Rincón Latino;0.0;0; ;
+;Casa Félix;0.0;0;€;Española
+;The Black Bull;0.0;0;€;Bar,Café,Pub
+;Ikni;0.0;0; ;
+;Moikamo bar;0.0;0; ;Bar,Pizza
+;lindaraja gril;0.0;0;€€€€;Española
+;Taperia/Bocateria Ñam Ñam Poti Poti;0.0;0; ;Mediterránea
+;El Lorro;0.0;0; ;Española
+;Hipico del limonar;0.0;0; ;Española
+;Cafetería Andersen;0.0;0; ;Internacional,Española,Fusión
+;Cafe Pasarela;0.0;0; ;
